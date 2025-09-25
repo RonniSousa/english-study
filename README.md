@@ -32,14 +32,36 @@ Ele é o tempo mais básico do inglês.
   * `We study.` → `He **studies**.`
   - Na maioria das vezes se acrescenta o "s" ao final do verbo na forma positiva, já na forma negativa ou interrogativa o "s" não aparece<br>
   Obs: essa forma não é o plural, é apenas uma conjugação de verbo. 
-```
-He works / She works / It works (positive)
-He doesn't work / She doesn't work / It doesn't work (negative)
-```
-  - Para realizar uma pergunta utilizando o verbo TO BE utiliza-se a inversão do verbo com o sujeito
-```
-Am I right? Are you ok? Is he ready?
-```
+
+---
+
+Para fazer perguntas com o verbo **to be** (`am`, `is`, `are`), a regra é simples: basta **inverter a posição do verbo com o sujeito** da frase.
+
+---
+
+- Estrutura da Pergunta
+
+A estrutura básica é:
+
+`Verbo to be` + `Sujeito` + `Resto da frase`
+
+---
+
+- Exemplos Práticos
+
+ * **Frase afirmativa:** `You are happy.` (Você está feliz.)
+ * **Pergunta:** `Are you happy?` (Você está feliz?)
+
+ * **Frase afirmativa:** `She is a doctor.` (Ela é uma médica.)
+ * **Pergunta:** `Is she a doctor?` (Ela é uma médica?)
+
+ * **Frase afirmativa:** `I am a student.` (Eu sou um estudante.)
+ * **Pergunta:** `Am I a student?` (Eu sou um estudante?)
+
+Essa regra de inversão funciona para todas as pessoas gramaticais e é a forma mais comum de se fazer uma pergunta simples com o verbo `to be`.
+
+---
+
   - O verbo auxiliar **`do`** e **`does`** é usado para os pronomes.<br>
 
   A regra é a seguinte:
