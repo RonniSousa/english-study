@@ -33,9 +33,7 @@ Ele é o tempo mais básico do inglês.
   - Na maioria das vezes se acrescenta o "s" ao final do verbo na forma positiva, já na forma negativa ou interrogativa o "s" não aparece<br>
   Obs: essa forma não é o plural, é apenas uma conjugação de verbo. 
 
----
-
-Para fazer perguntas com o verbo **to be** (`am`, `is`, `are`), a regra é simples: basta **inverter a posição do verbo com o sujeito** da frase.
+  Para fazer perguntas com o verbo **to be** (`am`, `is`, `are`), a regra é simples: basta **inverter a posição do verbo com o sujeito** da frase.
 
 ---
 
