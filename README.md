@@ -1,18 +1,36 @@
 # LEVEL A1
 
-## Present simple
-  - Usado para falar sobre: general truths, habits or routines, likes and dislikes.
-    * verb + pronoum
-  ### Conjugação de verbo com as pessoas:
-  - Singular pronouns 
-```
-I / YOU / HE / SHE / IT - pronoum verb - I work (positive) / I don't work (negative)
-```
-  - Plural pronouns
-```
-WE / YOU / THEY - We speak (positive) / We don't speak (negative)
-```
-  - A conjugação do HE / SHE / IT é diferente, pois na maioria das vezes se acrescenta o "s" ao final do verbo na forma positiva, já na forma negativa ou interrogativa o "s" não aparece<br>
+## Present Simple
+
+O **Present Simple** é um tempo verbal do inglês usado para falar de **hábitos**, **rotinas**, **fatos gerais** e **situações permanentes**.
+
+Ele é o tempo mais básico do inglês.
+
+---
+
+- Quando usar?
+
+  * **Para hábitos e rotinas:**
+    * `I **wake up** at 7 AM every day.` (Eu acordo às 7 da manhã todos os dias.)
+    * `He **goes** to the gym on Mondays.` (Ele vai à academia às segundas.)
+
+  * **Para fatos e verdades universais:**
+    * `The sun **rises** in the east.` (O sol nasce no leste.)
+    * `Water **boils** at 100 degrees Celsius.` (A água ferve a 100 graus Celsius.)
+
+  * **Para situações permanentes:**
+    * `She **lives** in London.` (Ela mora em Londres.)
+    * `They **work** in a hospital.` (Eles trabalham em um hospital.)
+
+---
+
+- Regra principal (Terceira pessoa do singular)
+
+  - A única regra que muda o verbo é na **terceira pessoa do singular** (he, she, it). Nesses casos, o verbo recebe um **`s`** no final.
+
+  * `I work.` → `She **works**.`
+  * `We study.` → `He **studies**.`
+  - Na maioria das vezes se acrescenta o "s" ao final do verbo na forma positiva, já na forma negativa ou interrogativa o "s" não aparece<br>
   Obs: essa forma não é o plural, é apenas uma conjugação de verbo. 
 ```
 He works / She works / It works (positive)
