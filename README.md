@@ -39,12 +39,12 @@ Ex: Does He work? (obs: o "s" no final do verbo aqui também não é incluído)
 ```
 - Exemplos com `it`
 
-* **Pergunta:**
+  * **Pergunta:**
     * `Does` it `rain a lot here?` (Chove muito aqui?)
-* **Negativa:**
+  * **Negativa:**
     * It `does not` (`doesn't`) `work anymore.` (Não funciona mais.)
 
-A mesma lógica se aplica a `he` e `she`:
+  A mesma lógica se aplica a `he` e `she`:
 
-* `Does` he `have a car?` (Ele tem um carro?)
-* She `doesn't` `live here.` (Ela não mora aqui.)
+  * `Does` he `have a car?` (Ele tem um carro?)
+  * She `doesn't` `live here.` (Ela não mora aqui.)
