@@ -39,28 +39,28 @@ Ele é o tempo mais básico do inglês.
 
 - Estrutura da Pergunta
 
-A estrutura básica é:
+  A estrutura básica é:
 
-`Verbo to be` + `Sujeito` + `Resto da frase`
+  `Verbo to be` + `Sujeito` + `Resto da frase`
 
 ---
 
 - Exemplos Práticos
 
- * **Frase afirmativa:** `You are happy.` (Você está feliz.)
- * **Pergunta:** `Are you happy?` (Você está feliz?)
+  * **Frase afirmativa:** `You are happy.` (Você está feliz.)
+  * **Pergunta:** `Are you happy?` (Você está feliz?)
 
- * **Frase afirmativa:** `She is a doctor.` (Ela é uma médica.)
- * **Pergunta:** `Is she a doctor?` (Ela é uma médica?)
+  * **Frase afirmativa:** `She is a doctor.` (Ela é uma médica.)
+  * **Pergunta:** `Is she a doctor?` (Ela é uma médica?)
 
- * **Frase afirmativa:** `I am a student.` (Eu sou um estudante.)
- * **Pergunta:** `Am I a student?` (Eu sou um estudante?)
+  * **Frase afirmativa:** `I am a student.` (Eu sou um estudante.)
+  * **Pergunta:** `Am I a student?` (Eu sou um estudante?)
 
-Essa regra de inversão funciona para todas as pessoas gramaticais e é a forma mais comum de se fazer uma pergunta simples com o verbo `to be`.
+ Essa regra de inversão funciona para todas as pessoas gramaticais e é a forma mais comum de se fazer uma pergunta simples com o verbo `to be`.
 
 ---
 
-  - O verbo auxiliar **`do`** e **`does`** é usado para os pronomes.<br>
+- O verbo auxiliar **`do`** e **`does`** é usado para os pronomes.<br>
 
   A regra é a seguinte:
 
