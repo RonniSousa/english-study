@@ -37,7 +37,7 @@ HE / SHE / IT
 Does + pronoum + verb
 Ex: Does He work? (obs: o "s" no final do verbo aqui também não é incluído)
 ```
-### Exemplos com `it`
+- Exemplos com `it`
 
 * **Pergunta:**
     * `Does` it `rain a lot here?` (Chove muito aqui?)
