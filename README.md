@@ -24,7 +24,7 @@ Ele é o tempo mais básico do inglês.
 
 ---
 
-- Regra principal (Terceira pessoa do singular)
+#### Regra principal (Terceira pessoa do singular)
 
   - A única regra que muda o verbo é na **terceira pessoa do singular** (he, she, it). Nesses casos, o verbo recebe um **`s`** no final.
 
@@ -37,7 +37,7 @@ Ele é o tempo mais básico do inglês.
 
 ---
 
-- Estrutura da Pergunta
+#### Estrutura da Pergunta
 
   A estrutura básica é:
 
@@ -56,11 +56,11 @@ Ele é o tempo mais básico do inglês.
   * **Frase afirmativa:** `I am a student.` (Eu sou um estudante.)
   * **Pergunta:** `Am I a student?` (Eu sou um estudante?)
 
- Essa regra de inversão funciona para todas as pessoas gramaticais e é a forma mais comum de se fazer uma pergunta simples com o verbo `to be`.
+  Essa regra de inversão funciona para todas as pessoas gramaticais e é a forma mais comum de se fazer uma pergunta simples com o verbo `to be`.
 
 ---
 
-- O verbo auxiliar **`do`** e **`does`** é usado para os pronomes.<br>
+#### O verbo auxiliar **`do`** e **`does`** é usado para os pronomes.<br>
 
   A regra é a seguinte:
 
@@ -86,3 +86,25 @@ Ex: Does He work? (obs: o "s" no final do verbo aqui também não é incluído)
 
   * `Does` he `have a car?` (Ele tem um carro?)
   * She `doesn't` `live here.` (Ela não mora aqui.)
+
+ ---
+
+#### A / AN
+
+- O uso de **a** e **an** é muito simples: ambos significam "um" ou "uma", e a escolha depende do **som da primeira letra da próxima palavra**, não da letra em si.
+
+  * Use **`a`** quando a palavra seguinte começar com um **som de consoante**.
+  * Use **`an`** quando a palavra seguinte começar com um **som de vogal**.
+
+---
+
+- Exemplos Práticos
+
+ | **Com `A` (som de consoante)** | **Com `AN` (som de vogal)** |
+ | :--- | :--- |
+ | **`a`** dog (um cachorro) | **`an`** apple (uma maçã) |
+ | **`a`** car (um carro) | **`an`** elephant (um elefante) |
+ | **`a`** university (uma universidade - o som é de 'y') | **`an`** hour (uma hora - o 'h' é mudo, o som é de 'o') |
+ | **`a`** one-way street (uma rua de mão única - o som é de 'w') | **`an`** honest man (um homem honesto - o 'h' é mudo, o som é de 'o') |
+
+ A regra do som é a chave para não errar. Se o som inicial da palavra for de vogal, use `an`. Se for de consoante, use `a`.
