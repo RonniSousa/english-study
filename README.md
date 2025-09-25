@@ -1,5 +1,10 @@
 # LEVEL A1
 
-* Present simple
+## Present simple
   - Usado para falar sobre: general truths, habits or routines, likes and dislikes.
     * verb + pronoum
+  - Singular pronouns 
+```
+I / YOU / HE / SHE / IT
+```
+
