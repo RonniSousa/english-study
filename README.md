@@ -100,14 +100,14 @@ Ex: Does He work? (obs: o "s" no final do verbo aqui também não é incluído)
 
 - Exemplos Práticos
 
- | **Com `A` (som de consoante)** | **Com `AN` (som de vogal)** |
- | :--- | :--- |
- | **`a`** dog (um cachorro) | **`an`** apple (uma maçã) |
- | **`a`** car (um carro) | **`an`** elephant (um elefante) |
- | **`a`** university (uma universidade - o som é de 'y') | **`an`** hour (uma hora - o 'h' é mudo, o som é de 'o') |
- | **`a`** one-way street (uma rua de mão única - o som é de 'w') | **`an`** honest man (um homem honesto - o 'h' é mudo, o som é de 'o') |
+  | **Com `A` (som de consoante)** | **Com `AN` (som de vogal)** |
+  | :--- | :--- |
+  | **`a`** dog (um cachorro) | **`an`** apple (uma maçã) |
+  | **`a`** car (um carro) | **`an`** elephant (um elefante) |
+  | **`a`** university (uma universidade - o som é de 'y') | **`an`** hour (uma hora - o 'h' é mudo, o som é de 'o') |
+  | **`a`** one-way street (uma rua de mão única - o som é de 'w') | **`an`** honest man (um homem honesto - o 'h' é mudo, o som é de 'o') |
 
- A regra do som é a chave para não errar. Se o som inicial da palavra for de vogal, use `an`. Se for de consoante, use `a`.
+  A regra do som é a chave para não errar. Se o som inicial da palavra for de vogal, use `an`. Se for de consoante, use `a`.
 
 ---
 
@@ -121,7 +121,7 @@ O verbo modal **can** é usado para expressar **habilidade** ou **possibilidade*
 
 #### Can (habilidade/possibilidade)
 
-Use **can** para dizer que alguém é capaz de fazer algo.
+- Use **can** para dizer que alguém é capaz de fazer algo.
 
   * **Exemplo de habilidade:**
     * `I **can** speak English.` (Eu consigo/posso falar inglês.)
@@ -132,7 +132,7 @@ Use **can** para dizer que alguém é capaz de fazer algo.
 
 ### Can't (não consegue/não pode)
 
-Use **can't** para dizer que alguém não é capaz de fazer algo ou que algo não é possível.
+- Use **can't** para dizer que alguém não é capaz de fazer algo ou que algo não é possível.
 
   * **Exemplo:**
     * `I **can't** go to the party tonight.` (Eu não consigo/posso ir à festa hoje à noite.)
