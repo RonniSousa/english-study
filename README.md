@@ -108,3 +108,34 @@ Ex: Does He work? (obs: o "s" no final do verbo aqui também não é incluído)
  | **`a`** one-way street (uma rua de mão única - o som é de 'w') | **`an`** honest man (um homem honesto - o 'h' é mudo, o som é de 'o') |
 
  A regra do som é a chave para não errar. Se o som inicial da palavra for de vogal, use `an`. Se for de consoante, use `a`.
+
+---
+
+## Modal Verb
+
+O verbo modal **can** é usado para expressar **habilidade** ou **possibilidade**. A forma negativa, **can't** (ou cannot), expressa o oposto.
+
+É um verbo muito fácil de usar porque ele **nunca muda de forma**, não importa o sujeito (I, you, he, she, it, we, they).
+
+---
+
+#### Can (habilidade/possibilidade)
+
+Use **can** para dizer que alguém é capaz de fazer algo.
+
+  * **Exemplo de habilidade:**
+    * `I **can** speak English.` (Eu consigo/posso falar inglês.)
+    * `She **can** swim very fast.` (Ela consegue/pode nadar muito rápido.)
+
+  * **Exemplo de possibilidade:**
+    * `It **can** get very cold here in the winter.` (Pode ficar muito frio aqui no inverno.)
+
+### Can't (não consegue/não pode)
+
+Use **can't** para dizer que alguém não é capaz de fazer algo ou que algo não é possível.
+
+  * **Exemplo:**
+    * `I **can't** go to the party tonight.` (Eu não consigo/posso ir à festa hoje à noite.)
+    * `He **can't** lift that box.` (Ele não consegue levantar aquela caixa.)
+
+  Lembre-se: `can` e `can't` vêm **sempre antes do verbo principal**, que fica na sua forma base (sem 'to' ou 's').
