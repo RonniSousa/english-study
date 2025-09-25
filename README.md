@@ -113,6 +113,31 @@ Ex: Does He work? (obs: o "s" no final do verbo aqui também não é incluído)
 
 ## Modal Verb
 
+Verbos modais são um tipo de verbo auxiliar usado para expressar **habilidade**, **possibilidade**, **obrigação** ou **permissão**.
+
+Eles sempre acompanham um verbo principal.
+
+---
+
+#### Principais Características
+
+1.  **Não mudam de forma:** Não importa o sujeito (`he`, `she`, `it`), o verbo modal permanece o mesmo.
+    * `She **can** swim.`
+2.  **Vêm antes do verbo principal:** O verbo principal fica na sua forma base (sem 's', 'ed' ou 'ing').
+    * `You **should** study.`
+3.  **Não precisam de auxiliares para negação e pergunta:** Basta adicionar `not` ou inverter a ordem com o sujeito.
+    * **Pergunta:** `**Can** I help you?`
+    * **Negação:** `You **must not** be late.`
+
+#### Principais Verbos Modais
+
+* **`Can` / `Could`:** Habilidade (presente/passado) ou possibilidade.
+* **`May` / `Might`:** Permissão ou possibilidade.
+* **`Must` / `Should`:** Obrigação ou conselho.
+* **`Will` / `Would`:** Futuro ou pedido educado.
+
+---
+
 O verbo modal **can** é usado para expressar **habilidade** ou **possibilidade**. A forma negativa, **can't** (ou cannot), expressa o oposto.
 
 É um verbo muito fácil de usar porque ele **nunca muda de forma**, não importa o sujeito (I, you, he, she, it, we, they).
