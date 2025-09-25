@@ -22,7 +22,7 @@ He doesn't work / She doesn't work / It doesn't work (negative)
   - Para realizar uma pergunta utilizando o verbo TO BE utiliza-se a inversão do verbo com o sujeito<br>
     Também é ultizado o "do" ou o "does" (verbo fazer) no início das frases.
 ```
-**Am** I right? Are you ok? Is he ready?
+Am I right? Are you ok? Is he ready?
 -----------------------------
 I / YOU / WE / YOU / THEY 
 DO + pronoum + verb
@@ -32,3 +32,27 @@ HE / SHE / IT
 Does + pronoum + verb
 Ex: Does He work? (obs: o "s" no final do verbo aqui também não é incluído)
 ```
+
+
+  - O verbo auxiliar **`do`** e **`does`** é usado para os pronomes da terceira pessoa do singular: **`he`**, **`she`** e **`it`**.<br>
+
+  A regra é a seguinte:
+
+  * **`Do`** é usado com os pronomes **`I`**, **`you`**, **`we`** e **`they`**.
+  * **`Does`** é usado com os pronomes **`he`**, **`she`** e **`it`**.
+
+Essa regra se aplica tanto a perguntas quanto a frases negativas no presente simples.
+
+---
+
+### Exemplos com `it`
+
+* **Pergunta:**
+    * `Does` it `rain a lot here?` (Chove muito aqui?)
+* **Negativa:**
+    * It `does not` (`doesn't`) `work anymore.` (Não funciona mais.)
+
+A mesma lógica se aplica a `he` e `she`:
+
+* `Does` he `have a car?` (Ele tem um carro?)
+* She `doesn't` `live here.` (Ela não mora aqui.)
