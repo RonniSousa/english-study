@@ -22,7 +22,7 @@ He doesn't work / She doesn't work / It doesn't work (negative)
   - Para realizar uma pergunta utilizando o verbo TO BE utiliza-se a inversão do verbo com o sujeito<br>
     Também é ultizado o "do" ou o "does" (verbo fazer) no início das frases.
 ```
-_Am_ I right? Are you ok? Is he ready?
+<u>Am</u> I right? Are you ok? Is he ready?
 -----------------------------
 I / YOU / WE / YOU / THEY 
 DO + pronoum + verb
