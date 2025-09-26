@@ -227,3 +227,30 @@ Os pronomes demonstrativos são usados para indicar a **posição** de algo ou a
 
 ---
 
+### Simple Past
+
+É usado para falar de ações que **começaram e terminaram no passado**.
+
+Para a maioria dos verbos regulares, a regra é simples: adicione **`-ed`** ao final do verbo.
+
+### Como usar?
+
+A forma do verbo no passado é a mesma para todos os sujeitos (`I`, `you`, `he`, `she`, `it`, `we`, `they`).
+
+  * **Verbos que terminam em consoante + `y`:** troque o `y` por **`i`** e adicione **`-ed`**.
+    * `study` → `stud**ied**`
+    * `try` → `tr**ied**`
+    * `cry` → `cr**ied**`
+
+  * **Verbos que não terminam em `y`:** apenas adicione **`-ed`**.
+    * `work` → `work**ed**`
+    * `play` → `play**ed**` (note que o `y` é precedido por uma vogal, então não muda)
+    * `start` → `start**ed**`
+
+### Exemplos:
+
+  * `I **walked** to school yesterday.` (Eu andei para a escola ontem.)
+  * `She **studied** for the test.` (Ela estudou para a prova.)
+  * `We **played** soccer last weekend.` (Nós jogamos futebol no último fim de semana.)
+
+  Lembre-se que existem os **verbos irregulares** (como `go` → `went`, `see` → `saw`), que não seguem essa regra. Eles precisam ser memorizados.
