@@ -286,3 +286,34 @@ Basta inverter a posição do `was`/`were` com o sujeito.
   * `**Were** you at home?` (Você estava em casa?)
 
   O `was` e `were` funcionam de forma independente, sem precisar de verbos auxiliares como `did` para negações ou perguntas.
+
+---
+
+### Subject Pronouns
+
+Os **Subject Pronouns** (pronomes do sujeito) são usados para substituir o sujeito de uma frase. Eles indicam quem está realizando a ação do verbo.
+
+Em inglês, eles são obrigatórios.
+
+---
+
+### Os pronomes são:
+
+  * **I** (Eu)
+  * **You** (Você/Vocês)
+  * **He** (Ele)
+  * **She** (Ela)
+  * **It** (Ele/Ela, para objetos, animais ou coisas)
+  * **We** (Nós)
+  * **They** (Eles/Elas)
+
+### Exemplos Práticos:
+
+  * **`I`** `am a teacher.` (Eu sou um professor.)
+  * **`She`** `is happy.` (Ela está feliz.)
+  * **`We`** `study English.` (Nós estudamos inglês.)
+  * **`It`** `is a beautiful day.` (É um dia lindo.)
+  * **`They`** `live in New York.` (Eles moram em Nova York.)
+
+---
+
