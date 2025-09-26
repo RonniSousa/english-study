@@ -313,3 +313,38 @@ Já as palavras `my`, `yours`, `him`, `her` **não são subject pronouns**. Elas
 
 ---
 
+### Present Perfect
+
+O **Present Perfect** é um tempo verbal que liga o passado ao presente.
+
+Ele é usado para falar sobre ações que **começaram no passado e têm alguma conexão com o presente**.
+
+---
+
+### Como Usar?
+
+A estrutura é sempre: **`have`** ou **`has`** + o verbo principal no **particípio passado** (a 3ª coluna da tabela de verbos).
+
+  * **Afirmativa:** `I **have traveled** to Japan.` (Eu viajei para o Japão.)
+  * **Negativa:** `I **haven't traveled** to Japan.` (Eu não viajei para o Japão.)
+  * **Pergunta:** `**Have** you **traveled** to Japan?` (Você viajou para o Japão?)
+
+---
+
+### Quando Usar?
+
+1.  **Para experiências de vida:** Ação que aconteceu em um tempo não especificado no passado.
+    * `I **have seen** that movie.` (Eu já vi esse filme.)
+
+2.  **Para ações que começaram no passado e continuam no presente:**
+    * `He **has lived** here for five years.` (Ele mora aqui há cinco anos. — Ele começou a morar aqui no passado e ainda mora.)
+
+3.  **Para ações que acabaram de acontecer (com `just`, `already` ou `yet`):**
+    * `She **has just finished** her work.` (Ela acabou de terminar o trabalho.)
+
+### Regra do **`has`**
+
+O verbo `have` muda para **`has`** na **terceira pessoa do singular** (`he`, `she`, `it`). Essa é a única variação no presente simples.
+  
+---
+
