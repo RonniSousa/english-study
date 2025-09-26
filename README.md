@@ -270,17 +270,17 @@ Ele tem apenas duas formas: **`was`** e **`were`**.
   * Use **`was`** para os sujeitos no **singular**: **I**, **he**, **she**, **it**.
   * Use **`were`** para os sujeitos no **plural**: **you**, **we**, **they**.
 
--**Afirmativa:**
+**Afirmativa:**
   * `I **was** a student.` (Eu era um estudante.)
   * `He **was** happy.` (Ele estava feliz.)
   * `They **were** in London.` (Eles estavam em Londres.)
 
--**Negativa:**
+**Negativa:**
   Basta adicionar `not` depois de `was` ou `were`.
   * `She **was not** (wasn't) sad.` (Ela não estava triste.)
   * `We **were not** (weren't) late.` (Nós não estávamos atrasados.)
 
--**Pergunta:**
+**Pergunta:**
 Basta inverter a posição do `was`/`were` com o sujeito.
   * `**Was** she a doctor?` (Ela era uma médica?)
   * `**Were** you at home?` (Você estava em casa?)
