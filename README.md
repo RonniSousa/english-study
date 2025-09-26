@@ -193,3 +193,37 @@ A estrutura é sempre a mesma: **`will` + `verbo principal`**.
     * `Don't worry. I **won't tell** anyone.` (Não se preocupe. Eu não vou contar a ninguém.)
 
     A forma contraída **`'ll`** (para `will`) e **`won't`** (para `will not`) é muito comum na fala.
+
+---
+
+### Demonstrative Pronouns
+
+Os pronomes demonstrativos são usados para indicar a **posição** de algo ou alguém em relação a quem está falando. Eles mudam de acordo com a **distância** (perto ou longe) e o **número** (singular ou plural).
+
+---
+
+### Tabela de Uso Resumido
+
+  | | Perto de quem fala | Longe de quem fala |
+  | :--- | :--- | :--- |
+  | **Singular** | **This** (Este, esta, isto) | **That** (Aquele, aquela, aquilo) |
+  | **Plural** | **These** (Estes, estas) | **Those** (Aqueles, aquelas) |
+
+---
+
+### Exemplos Práticos
+
+#### Perto de você
+
+  * **`This`** `is my book.` (Este é o meu livro. — O livro está na sua mão ou bem perto.)
+  * **`These`** `are my shoes.` (Estes são os meus sapatos. — Os sapatos estão perto.)
+
+#### Longe de você
+
+  * **`That`** `is a beautiful house.` (Aquela é uma casa bonita. — A casa está longe.)
+  * **`Those`** `are the students.` (Aqueles são os estudantes. — Os estudantes estão longe.)
+
+  **Dica:** Pense em `this` e `these` como "aqui" e `that` e `those` como "lá".
+
+---
+
