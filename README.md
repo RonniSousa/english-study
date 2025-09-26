@@ -164,3 +164,32 @@ O verbo modal **can** é usado para expressar **habilidade** ou **possibilidade*
     * `He **can't** lift that box.` (Ele não consegue levantar aquela caixa.)
 
   Lembre-se: `can` e `can't` vêm **sempre antes do verbo principal**, que fica na sua forma base (sem 'to' ou 's').
+
+  ---
+
+### Future Simple
+
+O **Future Simple** é usado para falar sobre ações que acontecerão no futuro. Ele é o tempo verbal mais simples para isso.
+
+### Como Usar?
+
+A estrutura é sempre a mesma: **`will` + `verbo principal`**.
+
+  * **Afirmativa:** `I will go to the party.` (Eu irei à festa.)
+  * **Negativa:** `I will not (won't) go to the party.` (Eu não irei à festa.)
+  * **Pergunta:** `Will you go to the party?` (Você irá à festa?)
+
+### Quando usar?
+
+1.  **Para decisões espontâneas:** algo que você decide na hora de falar.
+    * `I'm thirsty. I **will buy** a soda.` (Estou com sede. Vou comprar um refrigerante.)
+
+2.  **Para previsões ou suposições:**
+    * `It **will rain** tomorrow.` (Vai chover amanhã.)
+    * `I think she **will pass** the test.` (Eu acho que ela vai passar na prova.)
+
+3.  **Para promessas ou ofertas:**
+    * `I **will help** you with your homework.` (Eu vou te ajudar com sua lição de casa.)
+    * `Don't worry. I **won't tell** anyone.` (Não se preocupe. Eu não vou contar a ninguém.)
+
+    A forma contraída **`'ll`** (para `will`) e **`won't`** (para `will not`) é muito comum na fala.
