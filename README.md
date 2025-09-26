@@ -289,31 +289,27 @@ Basta inverter a posição do `was`/`were` com o sujeito.
 
 ---
 
-### Subject Pronouns
+### Possesive Adjectives
 
-Os **Subject Pronouns** (pronomes do sujeito) são usados para substituir o sujeito de uma frase. Eles indicam quem está realizando a ação do verbo.
+Os Possessive Adjectives (adjetivos possessivos) são usados para indicar posse ou pertencimento. Eles sempre vêm antes de um substantivo.
 
-Em inglês, eles são obrigatórios.
+A principal diferença é que os **Subject Pronouns** (`I`, `you`, `he`, `she`, `it`, `we`, `they`) sempre realizam a ação do verbo. Eles são a "pessoa" que faz algo na frase.
 
----
+Já as palavras `my`, `yours`, `him`, `her` **não são subject pronouns**. Elas pertencem a outras categorias e têm funções diferentes:
 
-### Os pronomes são:
+* **`My`** e **`yours`** são pronomes possessivos. Eles indicam posse.
+   * **Exemplo:** `This is **my** car.` (Este é o meu carro.)
+   * **Exemplo:** `That car is **yours**.` (Aquele carro é seu.)
 
-  * **I** (Eu)
-  * **You** (Você/Vocês)
-  * **He** (Ele)
-  * **She** (Ela)
-  * **It** (Ele/Ela, para objetos, animais ou coisas)
-  * **We** (Nós)
-  * **They** (Eles/Elas)
+* **`Him`** e **`her`** são pronomes objeto. Eles recebem a ação do verbo, ou seja, a ação é feita para eles.
+   * **Exemplo:** `I saw **him** yesterday.` (Eu vi ele ontem.)
+   * **Exemplo:** `She gave the book to **her**.` (Ela deu o livro para ela.)
 
-### Exemplos Práticos:
+### Resumo das Funções:
 
-  * **`I`** `am a teacher.` (Eu sou um professor.)
-  * **`She`** `is happy.` (Ela está feliz.)
-  * **`We`** `study English.` (Nós estudamos inglês.)
-  * **`It`** `is a beautiful day.` (É um dia lindo.)
-  * **`They`** `live in New York.` (Eles moram em Nova York.)
+  * **Subject Pronouns:** `I`, `you`, `he`, `she`, `it`, `we`, `they` → **Fazem a ação.**
+  * **Object Pronouns:** `me`, `you`, `him`, `her`, `it`, `us`, `them` → **Recebem a ação.**
+  * **Possessive Adjectives/Pronouns:** `my`, `your`, `his`, `her`, `its`, `our`, `their` → **Indicam posse.**
 
 ---
 
