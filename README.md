@@ -254,3 +254,35 @@ A forma do verbo no passado é a mesma para todos os sujeitos (`I`, `you`, `he`,
   * `We **played** soccer last weekend.` (Nós jogamos futebol no último fim de semana.)
 
   Lembre-se que existem os **verbos irregulares** (como `go` → `went`, `see` → `saw`), que não seguem essa regra. Eles precisam ser memorizados.
+
+---
+
+### Simple Past - To Be Verb
+
+O **Simple Past do verbo `to be`** é usado para falar sobre um estado ou uma condição que existiu **no passado**.
+
+Ele tem apenas duas formas: **`was`** e **`were`**.
+
+---
+
+### Como usar?
+
+  * Use **`was`** para os sujeitos no **singular**: **I**, **he**, **she**, **it**.
+  * Use **`were`** para os sujeitos no **plural**: **you**, **we**, **they**.
+
+-**Afirmativa:**
+  * `I **was** a student.` (Eu era um estudante.)
+  * `He **was** happy.` (Ele estava feliz.)
+  * `They **were** in London.` (Eles estavam em Londres.)
+
+-**Negativa:**
+  Basta adicionar `not` depois de `was` ou `were`.
+  * `She **was not** (wasn't) sad.` (Ela não estava triste.)
+  * `We **were not** (weren't) late.` (Nós não estávamos atrasados.)
+
+-**Pergunta:**
+Basta inverter a posição do `was`/`were` com o sujeito.
+  * `**Was** she a doctor?` (Ela era uma médica?)
+  * `**Were** you at home?` (Você estava em casa?)
+
+  O `was` e `were` funcionam de forma independente, sem precisar de verbos auxiliares como `did` para negações ou perguntas.
