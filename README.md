@@ -1,6 +1,6 @@
 # LEVEL A1
 
-
+<details>
 ### **Sumário de Tópicos - Nível A1**
 
 * **[Present Simple](#present-simple)**
@@ -32,7 +32,7 @@
     * Como Usar?
     * Quando Usar?
     * Regra do `has`
-
+</details>
 ---
 
 ## Present Simple
