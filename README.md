@@ -9,7 +9,7 @@ Claro\! Aqui está o sumário formatado com links para você associar no GitHub.
 
   * **[Present Simple](https://github.com/RonniSousa/english-study?tab=readme-ov-file#present-simple)**
       * Quando usar?
-      * [Regra principal (Terceira pessoa do singular)](https://github.com/RonniSousa/english-study?tab=readme-ov-file#present-simple](https://github.com/RonniSousa/english-study?tab=readme-ov-file#regra-principal-terceira-pessoa-do-singular))
+      * [Regra principal (Terceira pessoa do singular)](https://github.com/RonniSousa/english-study?tab=readme-ov-file#present-simple](https://github.com/RonniSousa/english-study?tab=readme-ov-file#regra-principal-terceira-pessoa-do-singular)
       * [Estrutura da Pergunta (Verbo to be)](https://github.com/RonniSousa/english-study?tab=readme-ov-file#estrutura-da-pergunta)
       * [Verbos auxiliares do e does]([https://www.google.com/search?q=%23verbos-auxiliares-do-e-does](https://github.com/RonniSousa/english-study?tab=readme-ov-file#o-verbo-auxiliar-do-e-does-%C3%A9-usado-para-os-pronomes))
   * **[A / AN](https://www.google.com/search?q=%23a--an)**
