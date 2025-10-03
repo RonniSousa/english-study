@@ -1,7 +1,7 @@
 # LEVEL A1
 
 <details>
-### **Sumário de Tópicos - Nível A1**
+<summary>**Sumário de Tópicos - Nível A1**</summary>
 
 * **[Present Simple](#present-simple)**
     * Quando usar?
