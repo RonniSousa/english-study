@@ -4,34 +4,34 @@
 ### **Sumário de Tópicos - Nível A1**
 
 * **[Present Simple](#present-simple)**
-    * [Quando usar?](#quando-usar)
-    * [Regra principal (Terceira pessoa do singular)](#regra-principal-terceira-pessoa-do-singular)
-    * [Estrutura da Pergunta (Verbo to be)](#estrutura-da-pergunta-verbo-to-be)
-    * [Verbos auxiliares `do` e `does`](#o-verbo-auxiliar-do-e-does-é-usado-para-os-pronomes)
+    * Quando usar?
+    * Regra principal (Terceira pessoa do singular)
+    * Estrutura da Pergunta (Verbo to be)
+    * Verbos auxiliares `do` e `does`
 * **[A / AN](#a--an)**
-    * [Exemplos Práticos](#exemplos-praticos)
+    * Exemplos Práticos
 * **[Modal Verb](#modal-verb)**
-    * [Principais Características](#principais-caracteristicas)
-    * [Principais Verbos Modais](#principais-verbos-modais)
-    * [Can (habilidade/possibilidade)](#can-habilidadepossibilidade)
-    * [Can't (não consegue/não pode)](#cant-nao-conseguenao-pode)
+    * Principais Características
+    * Principais Verbos Modais
+    * Can (habilidade/possibilidade)
+    * Can't (não consegue/não pode)
 * **[Future Simple](#future-simple)**
-    * [Como Usar?](#como-usar)
-    * [Quando usar?](#quando-usar-1)
+    * Como Usar?
+    * Quando usar?
 * **[Demonstrative Pronouns](#demonstrative-pronouns)**
-    * [Tabela de Uso Resumido](#tabela-de-uso-resumido)
-    * [Exemplos Práticos](#exemplos-praticos-1)
+    * Tabela de Uso Resumido
+    * Exemplos Práticos
 * **[Simple Past](#simple-past)**
-    * [Como usar?](#como-usar-2)
-    * [Exemplos:](#exemplos)
+    * Como usar?
+    * Exemplos
 * **[Simple Past - To Be Verb](#simple-past---to-be-verb)**
-    * [Como usar?](#como-usar-3)
+    * Como usar?
 * **[Possesive Adjectives](#possesive-adjectives)**
-    * [Resumo das Funções:](#resumo-das-funcoes)
+    * Resumo das Funções
 * **[Present Perfect](#present-perfect)**
-    * [Como Usar?](#como-usar-4)
-    * [Quando Usar?](#quando-usar-2)
-    * [Regra do `has`](#regra-do-has)
+    * Como Usar?
+    * Quando Usar?
+    * Regra do `has`
 
 ---
 
