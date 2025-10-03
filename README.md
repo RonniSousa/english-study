@@ -1,7 +1,7 @@
 # LEVEL A1
 
 <details>
-<summary>**Sumário de Tópicos - Nível A1**</summary>
+<summary>Sumário de Tópicos - Nível A1</summary>
 
 * **[Present Simple](#present-simple)**
     * Quando usar?
@@ -33,6 +33,7 @@
     * Quando Usar?
     * Regra do `has`
 </details>
+
 ---
 
 ## Present Simple
