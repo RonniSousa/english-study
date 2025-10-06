@@ -26,7 +26,7 @@
 * **[Simple Past](#simple-past)**
     * Como usar?
     * Exemplos
-* **[Simple Past - To Be Verb](#simple-past---to-be-verb)**
+* **[Simple Past - Verb To Be ](#simple-past---verb-to-be)**
     * Como usar?
 * **[Possesive Adjectives](#possesive-adjectives)**
     * Resumo das Funções
