@@ -36,7 +36,7 @@
 
 ---
 
-## Present Simple
+<h2 align="center">Present Simple</h2>
 
 O **Present Simple** é um tempo verbal do inglês usado para falar de **hábitos**, **rotinas**, **fatos gerais** e **situações permanentes**.
 
