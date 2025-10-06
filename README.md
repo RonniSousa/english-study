@@ -1,4 +1,6 @@
-# LEVEL A1
+<h1 align="center">LEVEL A1</h1>
+
+---
 
 <details>
 <summary>Sumário de Tópicos - Nível A1</summary>
@@ -125,7 +127,7 @@ Ex: Does He work? (obs: o "s" no final do verbo aqui também não é incluído)
 
  ---
 
-## A / AN
+<h2 align="center">A / AN</h2>
 
 - O uso de **a** e **an** é muito simples: ambos significam "um" ou "uma", e a escolha depende do **som da primeira letra da próxima palavra**, não da letra em si.
 
@@ -147,7 +149,7 @@ Ex: Does He work? (obs: o "s" no final do verbo aqui também não é incluído)
 
 ---
 
-## Modal Verb
+<h2 align="center">Modal Verb</h2>
 
 Verbos modais são um tipo de verbo auxiliar usado para expressar **habilidade**, **possibilidade**, **obrigação** ou **permissão**.
 
@@ -203,7 +205,7 @@ O verbo modal **can** é usado para expressar **habilidade** ou **possibilidade*
 
   ---
 
-## Future Simple
+<h2 align="center">Future Simple</h2>
 
 O **Future Simple** é usado para falar sobre ações que acontecerão no futuro. Ele é o tempo verbal mais simples para isso.
 
@@ -232,7 +234,7 @@ A estrutura é sempre a mesma: **`will` + `verbo principal`**.
 
 ---
 
-## Demonstrative Pronouns
+<h2 align="center">Demonstrative Pronouns</h2>
 
 Os pronomes demonstrativos são usados para indicar a **posição** de algo ou alguém em relação a quem está falando. Eles mudam de acordo com a **distância** (perto ou longe) e o **número** (singular ou plural).
 
@@ -263,7 +265,7 @@ Os pronomes demonstrativos são usados para indicar a **posição** de algo ou a
 
 ---
 
-## Simple Past
+<h2 align="center">Simple Past</h2>
 
 É usado para falar de ações que **começaram e terminaram no passado**.
 
@@ -293,7 +295,7 @@ A forma do verbo no passado é a mesma para todos os sujeitos (`I`, `you`, `he`,
 
 ---
 
-## Simple Past - To Be Verb
+<h2 align="center">Simple Past - To Be Verb</h2>
 
 O **Simple Past do verbo `to be`** é usado para falar sobre um estado ou uma condição que existiu **no passado**.
 
@@ -325,7 +327,7 @@ Basta inverter a posição do `was`/`were` com o sujeito.
 
 ---
 
-## Possesive Adjectives
+<h2 align="center">Possesive Adjectives</h2>
 
 Os Possessive Adjectives (adjetivos possessivos) são usados para indicar posse ou pertencimento. Eles sempre vêm antes de um substantivo.
 
@@ -349,7 +351,7 @@ Já as palavras `my`, `yours`, `him`, `her` **não são subject pronouns**. Elas
 
 ---
 
-## Present Perfect
+<h2 align="center">Present Perfect</h2>
 
 O **Present Perfect** é um tempo verbal que liga o passado ao presente.
 
@@ -384,7 +386,7 @@ O verbo `have` muda para **`has`** na **terceira pessoa do singular** (`he`, `sh
   
 ---
 
-## Present Continous
+<h2 align="center">Present Continous</h2>
 
 O **Present Continuous** é usado para falar de ações que estão acontecendo **agora**.
 
