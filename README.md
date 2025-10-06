@@ -452,3 +452,27 @@ Essa regra se aplica porque o verbo na forma -ing, nesse contexto, funciona como
    * `She is good **at singing** rock music.` (Ela é boa em cantar música rock.)
    * `I left the room **without saying** goodbye.` (Eu saí da sala sem dizer adeus.)
    * `Think twice **before speaking** loudly.` (Pense duas vezes antes de falar alto.)
+
+---
+
+<h2 align="center">Imperative</h2>
+
+O **Imperative** é usado para dar ordens, instruções ou conselhos. É a forma mais direta de dizer a alguém para fazer algo.
+
+A regra é simples: você usa o verbo na sua forma base (infinitivo sem o "to"), sem adicionar um sujeito.
+
+---
+
+### **Forma Positiva (Para dar ordens)**
+
+   * `**Open** the door.` (Abra a porta.)
+   * `**Sit down**!` (Sente-se!)
+   * `**Be** quiet.` (Fique quieto.)
+
+### **Forma Negativa (Para proibir algo)**
+
+   * Adicione **`Don't`** antes do verbo na forma base.
+
+   * `**Don't talk** during the movie.` (Não fale durante o filme.)
+   * `**Don't be** late.` (Não se atrase.)
+   * `**Don't open** the box.` (Não abra a caixa.)
