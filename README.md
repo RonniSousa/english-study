@@ -125,7 +125,7 @@ Ex: Does He work? (obs: o "s" no final do verbo aqui também não é incluído)
 
  ---
 
-#### A / AN
+## A / AN
 
 - O uso de **a** e **an** é muito simples: ambos significam "um" ou "uma", e a escolha depende do **som da primeira letra da próxima palavra**, não da letra em si.
 
@@ -203,7 +203,7 @@ O verbo modal **can** é usado para expressar **habilidade** ou **possibilidade*
 
   ---
 
-### Future Simple
+## Future Simple
 
 O **Future Simple** é usado para falar sobre ações que acontecerão no futuro. Ele é o tempo verbal mais simples para isso.
 
@@ -232,7 +232,7 @@ A estrutura é sempre a mesma: **`will` + `verbo principal`**.
 
 ---
 
-### Demonstrative Pronouns
+## Demonstrative Pronouns
 
 Os pronomes demonstrativos são usados para indicar a **posição** de algo ou alguém em relação a quem está falando. Eles mudam de acordo com a **distância** (perto ou longe) e o **número** (singular ou plural).
 
@@ -263,7 +263,7 @@ Os pronomes demonstrativos são usados para indicar a **posição** de algo ou a
 
 ---
 
-### Simple Past
+## Simple Past
 
 É usado para falar de ações que **começaram e terminaram no passado**.
 
@@ -293,7 +293,7 @@ A forma do verbo no passado é a mesma para todos os sujeitos (`I`, `you`, `he`,
 
 ---
 
-### Simple Past - To Be Verb
+## Simple Past - To Be Verb
 
 O **Simple Past do verbo `to be`** é usado para falar sobre um estado ou uma condição que existiu **no passado**.
 
@@ -325,7 +325,7 @@ Basta inverter a posição do `was`/`were` com o sujeito.
 
 ---
 
-### Possesive Adjectives
+## Possesive Adjectives
 
 Os Possessive Adjectives (adjetivos possessivos) são usados para indicar posse ou pertencimento. Eles sempre vêm antes de um substantivo.
 
@@ -349,7 +349,7 @@ Já as palavras `my`, `yours`, `him`, `her` **não são subject pronouns**. Elas
 
 ---
 
-### Present Perfect
+## Present Perfect
 
 O **Present Perfect** é um tempo verbal que liga o passado ao presente.
 
