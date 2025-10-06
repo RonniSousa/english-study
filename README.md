@@ -407,3 +407,18 @@ Basta adicionar o **`not`** depois do verbo `to be`.
    * `I **am not** working now.` (Eu não estou trabalhando agora.)
    * `She **is not** watching TV.` (Ela não está assistindo TV.)
    * `They **are not** studying English.` (Eles não estão estudando inglês.)
+
+---
+
+### Preposition + ING
+
+Quando uma preposição (como `to`,`of`,`in`, `on`, `at`, `for`, `about`, `with`, `without`, `after`, `before`,`up`,`down`) é seguida por um verbo, esse verbo deve sempre estar na forma **-ing**.
+
+Essa regra se aplica porque o verbo na forma -ing, nesse contexto, funciona como um substantivo (chamado de gerúndio).
+
+### Exemplos:
+
+   * `I'm interested **in learning** a new language.` (Eu estou interessado em aprender uma nova língua.)
+   * `She is good **at singing** rock music.` (Ela é boa em cantar música rock.)
+   * `I left the room **without saying** goodbye.` (Eu saí da sala sem dizer adeus.)
+   * `Think twice **before speaking** loudly.` (Pense duas vezes antes de falar alto.)
