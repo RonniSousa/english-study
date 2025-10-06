@@ -295,7 +295,7 @@ A forma do verbo no passado é a mesma para todos os sujeitos (`I`, `you`, `he`,
 
 ---
 
-<h2 align="center">Simple Past - To Be Verb</h2>
+<h2 align="center">Simple Past - Verb To Be</h2>
 
 O **Simple Past do verbo `to be`** é usado para falar sobre um estado ou uma condição que existiu **no passado**.
 
