@@ -384,3 +384,26 @@ O verbo `have` muda para **`has`** na **terceira pessoa do singular** (`he`, `sh
   
 ---
 
+## Present Continous
+
+O **Present Continuous** é usado para falar de ações que estão acontecendo **agora**.
+
+---
+
+### **Forma Positiva**
+
+A estrutura é: **Sujeito + Verbo `to be` (am/is/are) + Verbo principal + `ing`**.
+
+   * `I **am working** now.` (Eu estou trabalhando agora.)
+   * `She **is watching** TV.` (Ela está assistindo TV.)
+   * `They **are studying** English.` (Eles estão estudando inglês.)
+
+---
+
+### **Forma Negativa**
+
+Basta adicionar o **`not`** depois do verbo `to be`.
+
+   * `I **am not** working now.` (Eu não estou trabalhando agora.)
+   * `She **is not** watching TV.` (Ela não está assistindo TV.)
+   * `They **are not** studying English.` (Eles não estão estudando inglês.)
