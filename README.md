@@ -410,6 +410,34 @@ Basta adicionar o **`not`** depois do verbo `to be`.
 
 ---
 
+### **Forma Interrogativa**
+
+Para fazer perguntas, a regra é simples: basta inverter a posição do verbo `to be` (`am`, `is`, `are`) com o sujeito.
+
+   * `**Is** she studying?` (Ela está estudando?)
+   * `**Are** they working?` (Eles estão trabalhando?)
+   * `**Am** I going with you?` (Eu estou indo com você?)
+
+---
+
+### **Short Answers (Respostas Curtas)**
+
+As respostas curtas são usadas para responder "sim" ou "não". Elas usam o verbo `to be` para concordar com o sujeito.
+
+**Respostas Positivas:**
+
+   * `Yes, I am.`
+   * `Yes, she is.`
+   * `Yes, they are.`
+
+**Respostas Negativas:**
+
+   * `No, I'm not.`
+   * `No, he isn't.`
+   * `No, we aren't.`
+
+---
+
 ### Preposition + ING
 
 Quando uma preposição (como `to`,`of`,`in`, `on`, `at`, `for`, `about`, `with`, `without`, `after`, `before`,`up`,`down`) é seguida por um verbo, esse verbo deve sempre estar na forma **-ing**.
