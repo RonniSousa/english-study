@@ -30,6 +30,8 @@
     * Como usar?
 * **[Simple Past - Irregular Verbs](#simple-past---irregular-verbs)**
     * Exemplos Práticos
+* **[Simple Past - Irregular Verbs](#simple-past---regular-verbs)**
+    * Exemplos Práticos
 * **[Possesive Adjectives](#possesive-adjectives)**
     * Resumo das Funções
 * **[Present Perfect](#present-perfect)**
@@ -326,6 +328,23 @@ Basta inverter a posição do `was`/`were` com o sujeito.
   * `**Were** you at home?` (Você estava em casa?)
 
   O `was` e `were` funcionam de forma independente, sem precisar de verbos auxiliares como `did` para negações ou perguntas.
+
+---
+
+<h2 align="center">Simple Past - Regular Verbs</h2>
+
+Os **verbos regulares** no **Simple Past** seguem uma regra simples para formar o passado: basta adicionar **-ed** ao final do verbo.
+
+### Exemplos:
+* **`Work`** (trabalhar) → **`worked`**
+* **`Play`** (jogar) → **`played`**
+* **`Start`** (começar) → **`started`**
+
+Para verbos que já terminam em "e", adicione apenas o **-d**:
+* **`Live`** (morar) → **`lived`**
+* **`Like`** (gostar) → **`liked`**
+
+Essa forma é usada para falar de ações que começaram e terminaram no passado. Por exemplo: `I **worked** yesterday.` (Eu trabalhei ontem.)
 
 ---
 
