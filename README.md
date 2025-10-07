@@ -63,7 +63,7 @@
     * Como Usar?
     * Quando Usar?
     * Regra do `has`
-* **[Present Continues](#present-continues)**
+* **[Present Continous](#present-continous)**
     * Forma Positiva
     * Forma Negativa
     * Forma Interrogativa
