@@ -574,12 +574,25 @@ Eles são usados da mesma forma que os verbos regulares para falar de ações qu
 ---
 
 ### Forma Negativa
-Para a forma negativa, a regra é simples: use **`didn't`** (ou `did not`) seguido pelo verbo na sua forma **base** (o infinitivo sem "to").
+(Explicação no próximo tópico)
 
-Não se usa a forma irregular na negativa.
+---
 
-   * `I **didn't go** to the store yesterday.` (Eu não fui para a loja ontem.)
-   * `She **didn't make** a cake.` (Ela não fez um bolo.)
+<h2 align="center">Simple Past - Did</h2>
+
+O **`did`** é o verbo auxiliar principal para o **Simple Past** na forma interrogativa e negativa. Ele é usado com todos os pronomes (I, you, he, she, it, we, they).
+
+### **Como usar?**
+
+1.  **Em Perguntas:** O `did` vai no começo da frase, e o verbo principal volta para a sua **forma base** (sem a conjugação no passado).
+    * `**Did** you **go** to the party?` (Você foi para a festa?)
+    * `**Did** she **eat** the cake?` (Ela comeu o bolo?)
+
+2.  **Em Frases Negativas:** O `did` é seguido por `not` (`didn't`), e o verbo principal também fica na **forma base**.
+    * `I **didn't** **go** to the party.` (Eu não fui para a festa.)
+    * `She **didn't** **eat** the cake.` (Ela não comeu o bolo.)
+
+Em resumo, o `did` "absorve" a função de passado, então o verbo principal não precisa ser conjugado.
 
 ---
 
