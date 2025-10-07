@@ -392,6 +392,38 @@ A estrutura é sempre a mesma: **`will` + `verbo principal`**.
 
 ---
 
+<h2 align="center">To Be + Going To</h2>
+
+A estrutura **verbo `to be` + `going to`** é usada para falar de planos e intenções no futuro. Ela indica uma ação que você já decidiu fazer ou que está prestes a acontecer.
+
+---
+
+### **Estrutura**
+
+A forma do verbo `to be` (`am`, `is`, `are`) muda de acordo com o sujeito, e depois vem o `going to` seguido do verbo principal na sua forma base.
+
+* **Positiva:** Sujeito + `am`/`is`/`are` + `going to` + Verbo
+    * `I **am going to study** tonight.` (Eu vou estudar hoje à noite.)
+    * `She **is going to travel** to Japan.` (Ela vai viajar para o Japão.)
+    * `They **are going to buy** a new car.` (Eles vão comprar um carro novo.)
+
+* **Negativa:** Sujeito + `am`/`is`/`are` + `not` + `going to` + Verbo
+    * `I **am not going to eat** pizza.` (Eu não vou comer pizza.)
+    * `He **is not going to come** with us.` (Ele não vai vir conosco.)
+
+* **Interrogativa:** `am`/`is`/`are` + Sujeito + `going to` + Verbo
+    * `**Are** you **going to call** him?` (Você vai ligar para ele?)
+    * `**Is** she **going to watch** the movie?` (Ela vai assistir ao filme?)
+
+### **Quando usar?**
+
+Use o `going to` quando a ação é um **plano já feito**, não uma decisão espontânea.
+
+   * `I bought the tickets. I **am going to visit** my family next month.` (Eu comprei as passagens. Eu vou visitar minha família no próximo mês.)
+   * `It's raining. The game **is going to be** canceled.` (Está chovendo. O jogo vai ser cancelado.)
+
+---
+
 <h2 align="center">Subject Pronouns</h2>
 
 **Subject Pronouns** (Pronomes Sujeito) são palavras usadas para substituir o sujeito de uma frase. Eles indicam quem ou o que está realizando a ação.
