@@ -26,6 +26,12 @@
 * **[Future Simple](#future-simple)**
     * Como Usar?
     * Quando usar?
+* **[To Be + Going To](#to-be---going-to)**
+    * Estrutura
+      - Positiva
+      - Negativa
+      - Interrogativa
+    * Como Usar?
 * **[Subject Pronouns](#subject-pronouns)**
     * Como Usar?
 * **[Demonstrative Pronouns](#demonstrative-pronouns)**
