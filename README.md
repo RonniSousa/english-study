@@ -229,6 +229,8 @@ O verbo modal **can** é usado para expressar **habilidade** ou **possibilidade*
 
 O modal verb `would` é usado principalmente para falar sobre situações hipotéticas, pedidos educados e hábitos no passado.
 
+---
+
 ### `Would`
 
 * **Pedidos educados:** É a forma mais formal e educada de pedir algo.
