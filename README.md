@@ -28,9 +28,9 @@
     * Exemplos
 * **[Simple Past - Verb To Be ](#simple-past---verb-to-be)**
     * Como usar?
-* **[Simple Past - Irregular Verbs](#simple-past---irregular-verbs)**
-    * Exemplos Práticos
 * **[Simple Past - Regular Verbs](#simple-past---regular-verbs)**
+    * Exemplos Práticos
+* **[Simple Past - Irregular Verbs](#simple-past---irregular-verbs)**
     * Exemplos Práticos
 * **[Possesive Adjectives](#possesive-adjectives)**
     * Resumo das Funções
