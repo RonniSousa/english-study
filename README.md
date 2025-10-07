@@ -78,7 +78,7 @@
     * Sinais de Pontuação
     * Uppercase e Lowercase
     * Exemplos em Uso
-* **[Comparative & Superlative](#comparative-&-superlative)**
+* **[Comparative & Superlative](#comparative--superlative)**
 </details>
 
 ---
