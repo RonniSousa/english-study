@@ -799,3 +799,43 @@ Em vez de focar apenas em vocabulário e gramática isolados, aprender com chunk
    * `I'm so excited about...` (Estou tão animado com...)
 
 Aprender e usar esses "blocos" de fala torna a comunicação muito mais natural, porque você passa a pensar e falar como um nativo, em vez de traduzir palavra por palavra.
+
+---
+
+<h2 align="center">Special Characters</h2>
+
+Existem muitos caracteres especiais, e a forma de pronunciá-los em inglês pode variar um pouco dependendo do contexto (em um endereço de e-mail, por exemplo). No entanto, aqui estão os nomes mais comuns para os símbolos que você encontra com frequência:
+
+---
+
+### **Símbolos Comuns**
+
+   * **@** (arroba): **at**
+   * **.** (ponto): **dot** (para sites e e-mails), **period** ou **full stop** (para o final de uma frase)
+   * **_** (underline): **underscore**
+   * **-** (hífen): **hyphen** ou **dash**
+   * **/ /** (barra): **slash** ou **forward slash**
+   * **\** (barra invertida): **backslash**
+   * **#** (jogo da velha): **hash** ou **pound sign**
+   * **&** (e comercial): **ampersand**
+
+### **Parênteses, Colchetes e Chaves**
+
+   * **( )** (parênteses): **parentheses**
+   * **[ ]** (colchetes): **brackets**
+   * **{ }** (chaves): **braces**
+
+### **Sinais de Pontuação**
+
+   * **?** (interrogação): **question mark**
+   * **!** (exclamação): **exclamation mark**
+   * **: ** (dois pontos): **colon**
+   * **;** (ponto e vírgula): **semicolon**
+   * **'** (apóstrofo): **apostrophe**
+   * **" "** (aspas): **quotation marks**
+
+### **Exemplos em Uso**
+
+   * **E-mail:** `myname@email.com` se fala "my name **at** email **dot** com".
+   * **Senha:** `password_123!` se fala "password **underscore** one two three **exclamation mark**".
+   * **Código:** `http://example.com/folder` se fala "h-t-t-p **colon slash slash** example **dot** com **slash** folder".
