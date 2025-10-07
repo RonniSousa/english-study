@@ -28,6 +28,8 @@
     * Exemplos
 * **[Simple Past - Verb To Be ](#simple-past---verb-to-be)**
     * Como usar?
+* **[Simple Past - Irregular Verbs](#simple-past---irregular-verbs)**
+    * Exemplos Práticos
 * **[Possesive Adjectives](#possesive-adjectives)**
     * Resumo das Funções
 * **[Present Perfect](#present-perfect)**
@@ -324,6 +326,22 @@ Basta inverter a posição do `was`/`were` com o sujeito.
   * `**Were** you at home?` (Você estava em casa?)
 
   O `was` e `were` funcionam de forma independente, sem precisar de verbos auxiliares como `did` para negações ou perguntas.
+
+---
+
+<h2 align="center">Simple Past - Irregular Verbs</h2>
+
+Os **verbos irregulares** no **Simple Past** não seguem a regra de adicionar "-ed" ao final. Cada um tem uma forma diferente que precisa ser memorizada.
+
+### Exemplos:
+
+   * `Go` (ir) → `**went**`
+   * `See` (ver) → `**saw**`
+   * `Take` (pegar) → `**took**`
+   * `Eat` (comer) → `**ate**`
+   * `Make` (fazer) → `**made**`
+
+Eles são usados da mesma forma que os verbos regulares para falar de ações que começaram e terminaram no passado. Por exemplo: `I **went** to the store yesterday.` (Eu fui para a loja ontem.)
 
 ---
 
