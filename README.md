@@ -54,6 +54,31 @@
     * Como Usar?
     * Quando Usar?
     * Regra do `has`
+* **[Present Continues](#present-continues)**
+    * Forma Positiva
+    * Forma Negativa
+    * Forma Interrogativa
+    * Short Answers (Respostas Curtas)
+    * Preposition + ING
+    * Exemplos
+* **[Imperative](#imperative)**
+    * Forma Positiva
+    * Forma Negativa
+* **[Intensifiers](#intensifiers)**
+    * Exemplos
+* **[Chunks](#chunks)**
+    * Exemplos de Chunks
+    * Chunks para Saudação e Conversação
+    * Chunks para Opinião e Concordância
+    * Chunks para Pedidos e Oferecer Ajuda
+    * Chunks para Expressar Sentimentos
+* **[Special Characters](#special-characters)**
+    * Símbolos Comuns
+    * Parênteses, Colchetes e Chaves
+    * Sinais de Pontuação
+    * Uppercase e Lowercase
+    * Exemplos em Uso
+* **[Comparative / Superlative](#Comparative-/-Superlative)**
 </details>
 
 ---
