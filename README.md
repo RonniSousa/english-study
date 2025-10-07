@@ -38,18 +38,18 @@
 * **[Simple Past](#simple-past)**
     * Como usar?
     * Exemplos
-* **[Simple Past - Verb To Be ](#simple-past---verb-to-be)**
-    * Como usar?
-* **[Simple Past - Regular Verbs](#simple-past---regular-verbs)**
-    * Exemplos Práticos
-* **[Simple Past - Irregular Verbs](#simple-past---irregular-verbs)**
-    * Exemplos Práticos
-    * Forma Positiva
-    * Forma Negativa
-* **[Simple Past - Did](#simple-past---did)**
-    * Como Usar?
-      - Em Perguntas
-      - Em Frases Negativas
+    * **[Simple Past - Verb To Be ](#simple-past---verb-to-be)**
+       * Como usar?
+    * **[Simple Past - Regular Verbs](#simple-past---regular-verbs)**
+       * Exemplos Práticos
+    * **[Simple Past - Irregular Verbs](#simple-past---irregular-verbs)**
+       * Exemplos Práticos
+       * Forma Positiva
+       * Forma Negativa
+    * **[Simple Past - Did](#simple-past---did)**
+       * Como Usar?
+         - Em Perguntas
+         - Em Frases Negativas
 * **[Present Perfect](#present-perfect)**
     * Como Usar?
     * Quando Usar?
@@ -582,7 +582,7 @@ Eles são usados da mesma forma que os verbos regulares para falar de ações qu
 
 ---
 
-<h3 align="center">Simple Past - Did</h3>
+<h2 align="center">Simple Past - Did</h2>
 
 O **`did`** é o verbo auxiliar principal para o **Simple Past** na forma interrogativa e negativa. Ele é usado com todos os pronomes (I, you, he, she, it, we, they).
 
