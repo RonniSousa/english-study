@@ -78,7 +78,14 @@
     * Sinais de Pontuação
     * Uppercase e Lowercase
     * Exemplos em Uso
-* **[Comparative & Superlative](#comparative--superlative)**
+* **[Comparative / Superlative](#comparative--superlative)**
+    * Comparative
+      - Adjetivos curtos
+      - Adjetivos longos
+    * Superlative
+      - Adjetivos curtos
+      - Adjetivos longos
+    * **[Comparative / Superlative - Y](#comparative--superlative---y)**
 </details>
 
 ---
@@ -875,7 +882,7 @@ Esses termos são muito usados em programação, senhas e configurações de tex
 
 ---
 
-<h2 align="center">Comparative & Superlative</h2>
+<h2 align="center">Comparative / Superlative</h2>
 
 ### Comparative (Comparativo)
 
