@@ -430,6 +430,44 @@ Use o `going to` quando a ação é um **plano já feito**, não uma decisão es
 
 ---
 
+<h2 align="center">Like / Love / Enjoy / Hate - ING or To</h2>
+
+Essa estrutura, com verbos como `like`, `love`, `enjoy` e `hate`, se encaixa na gramática de **verbos seguidos por gerúndio (`-ing`) ou infinitivo (`to + verbo`)**.
+
+A escolha entre `+ ing` ou `+ to` pode ter uma diferença sutil no significado, mas na maioria das vezes, ambas as formas estão corretas.
+
+---
+
+### Verbos que Aceitam as Duas Formas
+
+A maioria dos verbos que expressam preferência ou aversão pode ser seguida tanto por `-ing` quanto por `to + verbo`.
+
+* **`Like` (gostar):**
+  * `I **like swimming** in the ocean.` (Eu gosto de nadar no oceano.) - Foco na ação.
+  * `I **like to swim** in the ocean.` (Eu gosto de nadar no oceano.) - Foco na rotina, é algo que eu costumo fazer.
+
+* **`Love` (amar):**
+  * `She **loves cooking** for her family.` (Ela ama cozinhar para a família.)
+  * `She **loves to cook** for her family.` (Ela ama cozinhar para a família.)
+
+* **`Hate` (odiar):**
+  * `He **hates waking up** early.` (Ele odeia acordar cedo.)
+  * `He **hates to wake up** early.` (Ele odeia acordar cedo.)
+
+---
+
+### Verbos que Preferem Apenas uma Forma
+
+* **`Enjoy` (apreciar, gostar):** Esse verbo quase sempre é seguido por **`-ing`**.
+  * `They **enjoy playing** soccer.` (Eles gostam de jogar futebol.)
+  * **❌ Incorreto:** `They enjoy to play soccer.`
+
+* **`Prefer` (preferir):** Pode usar as duas formas. O uso de `to` é mais comum quando você está expressando uma preferência específica em uma situação.
+  * `I **prefer eating** at home.` (Eu prefiro comer em casa.)
+  * `I **prefer to eat** out tonight.` (Eu prefiro comer fora hoje à noite.)
+
+---
+
 <h2 align="center">Subject Pronouns</h2>
 
 **Subject Pronouns** (Pronomes Sujeito) são palavras usadas para substituir o sujeito de uma frase. Eles indicam quem ou o que está realizando a ação.
