@@ -61,7 +61,7 @@
 <h2 align="center">Verbs To Memorize</h2>
 
 <details>
-<summary>Lista dos 50 verbos mais usados nas seguintes formas: **infinitive**, **simple past** e **past participle**.</summary> 
+<summary>Lista dos 50 verbos mais usados nas seguintes formas: <strong>infinitive</strong>, <strong>simple past</strong> e <strong>past participle</strong>.</summary> 
 
 | Infinitive | Simple Past | Past Participle | Translation |
 | :--- | :--- | :--- | :--- |
