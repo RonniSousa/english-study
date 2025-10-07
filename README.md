@@ -32,6 +32,9 @@
       - Negativa
       - Interrogativa
     * Como Usar?
+* **[Like / Love / Enjoy / Hate - ING or To](#like--love--enjoy--hate---ing-or-to)**
+    * Verbos que Aceitam as Duas Formas
+    * Verbos que Preferem Apenas uma Forma
 * **[Subject Pronouns](#subject-pronouns)**
     * Como Usar?
 * **[Demonstrative Pronouns](#demonstrative-pronouns)**
