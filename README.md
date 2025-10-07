@@ -829,7 +829,7 @@ Existem muitos caracteres especiais, e a forma de pronunciá-los em inglês pode
 
    * **?** (interrogação): **question mark**
    * **!** (exclamação): **exclamation mark**
-   * **: ** (dois pontos): **colon**
+   * **:** (dois pontos): **colon**
    * **;** (ponto e vírgula): **semicolon**
    * **'** (apóstrofo): **apostrophe**
    * **" "** (aspas): **quotation marks**
