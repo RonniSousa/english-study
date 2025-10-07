@@ -870,6 +870,18 @@ A regra muda dependendo do tamanho do adjetivo:
   * `more expensive` (mais caro)
   * `This book is **more interesting** than that movie.` (Este livro é **mais interessante** que aquele filme.)
 
+| Adjetivo | Forma Comparativa | Exemplo |
+| :--- | :--- | :--- |
+| **fast** (rápido) | **faster** (mais rápido) | `A cheetah is **faster** than a lion.` |
+| **slow** (lento) | **slower** (mais lento) | `A turtle is **slower** than a snail.` |
+| **old** (velho) | **older** (mais velho) | `My house is **older** than your apartment.` |
+| **young** (jovem) | **younger** (mais jovem) | `She is **younger** than me.` |
+| **big** (grande) | **bigger** (maior) | `Jupiter is **bigger** than Mars.` |
+| **small** (pequeno) | **smaller** (menor) | `This phone is **smaller** than the tablet.` |
+| **expensive** (caro) | **more expensive** (mais caro) | `Cars are **more expensive** than bicycles.` |
+| **difficult** (difícil) | **more difficult** (mais difícil) | `Math is **more difficult** than history.` |
+
+
 ---
 
 ### Superlative (Superlativo)
@@ -885,5 +897,16 @@ O **Superlative** é usado para comparar três ou mais coisas, pessoas ou lugare
   * `the most beautiful` (o mais bonito)
   * `the most expensive` (o mais caro)
   * `This is **the most beautiful** painting I've ever seen.` (Esta é **a pintura mais bonita** que eu já vi.)
+
+| Adjetivo | Forma Superlativa | Exemplo |
+| :--- | :--- | :--- |
+| **fast** (rápido) | **the fastest** (o mais rápido) | `That car is **the fastest** in the world.` |
+| **slow** (lento) | **the slowest** (o mais lento) | `The sloth is **the slowest** animal.` |
+| **old** (velho) | **the oldest** (o mais velho) | `This building is **the oldest** in the city.` |
+| **young** (jovem) | **the youngest** (o mais jovem) | `He is **the youngest** child in the family.` |
+| **big** (grande) | **the biggest** (o maior) | `Russia is **the biggest** country.` |
+| **small** (pequeno) | **the smallest** (o menor) | `The hummingbird is **the smallest** bird.` |
+| **expensive** (caro) | **the most expensive** (o mais caro) | `This necklace is **the most expensive** item here.` |
+| **difficult** (difícil) | **the most difficult** (o mais difícil) | `It was **the most difficult** test of the year.` |
 
 ---
