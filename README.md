@@ -908,3 +908,49 @@ O **Superlative** é usado para comparar três ou mais coisas, pessoas ou lugare
 | **difficult** (difícil) | **the most difficult** (o mais difícil) | `It was **the most difficult** test of the year.` |
 
 ---
+
+Para palavras que terminam em **-y**, a regra é diferente. Você deve remover o **-y** e adicionar **-ier** para o comparativo e **-iest** para o superlativo.
+
+#### Comparativo
+
+| Adjetivo | Forma Comparativa | Exemplo |
+| :--- | :--- | :--- |
+| **happy** (feliz) | **happier** (mais feliz) | `I am **happier** now than I was yesterday.` |
+| **easy** (fácil) | **easier** (mais fácil) | `This exam is **easier** than the last one.` |
+| **busy** (ocupado) | **busier** (mais ocupado) | `I am **busier** this week than I was last week.` |
+| **hungry** (com fome) | **hungrier** (com mais fome) | `After the run, I was **hungrier** than ever.` |
+
+---
+
+#### Superlativo
+
+| Adjetivo | Forma Superlativa | Exemplo |
+| :--- | :--- | :--- |
+| **happy** (feliz) | **the happiest** (o mais feliz) | `She is **the happiest** person I know.` |
+| **easy** (fácil) | **the easiest** (o mais fácil) | `This was **the easiest** test of my life.` |
+| **busy** (ocupado) | **the busiest** (o mais ocupado) | `Saturday is **the busiest** day of the week.` |
+| **hungry** (com fome) | **the hungriest** (o mais com fome) | `The child was **the hungriest** of all.` |
+
+---
+
+Para adjetivos de uma sílaba que terminam em **T**, a regra geral é **dobrar a consoante final** antes de adicionar `-er` (comparativo) ou `-est` (superlativo).
+
+#### Comparativo
+
+| Adjetivo | Forma Comparativa | Exemplo |
+| :--- | :--- | :--- |
+| **hot** (quente) | **hotter** (mais quente) | `It's **hotter** today than it was yesterday.` (Está **mais quente** hoje do que estava ontem.) |
+| **fat** (gordo) | **fatter** (mais gordo) | `He is getting **fatter**.` (Ele está ficando **mais gordo**.) |
+| **wet** (molhado) | **wetter** (mais molhado) | `My clothes are **wetter** than yours.` (Minhas roupas estão **mais molhadas** que as suas.) |
+| **fit** (em forma) | **fitter** (mais em forma) | `He is a much **fitter** athlete.` (Ele é um atleta muito **mais em forma**.) |
+
+---
+
+#### Superlativo
+
+| Adjetivo | Forma Superlativa | Exemplo |
+| :--- | :--- | :--- |
+| **hot** (quente) | **the hottest** (o mais quente) | `This is **the hottest** summer on record.` (Este é **o verão mais quente** já registrado.) |
+| **fat** (gordo) | **the fattest** (o mais gordo) | `The pig is **the fattest** animal on the farm.` (O porco é **o animal mais gordo** da fazenda.) |
+| **wet** (molhado) | **the wettest** (o mais molhado) | `This is **the wettest** month of the year.` (Este é **o mês mais molhado** do ano.) |
+| **fit** (em forma) | **the fittest** (o mais em forma) | `She is **the fittest** person I know.` (Ela é **a pessoa mais em forma** que eu conheço.) |
