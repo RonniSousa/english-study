@@ -26,11 +26,15 @@
 * **[Future Simple](#future-simple)**
     * Como Usar?
     * Quando usar?
+* **[Subject Pronouns](#subject-pronouns)**
+    * Como Usar?
 * **[Demonstrative Pronouns](#demonstrative-pronouns)**
     * Tabela de Uso Resumido
     * Exemplos Práticos
 * **[Possesive Adjectives](#possesive-adjectives)**
     * Resumo das Funções
+* **[Object Pronouns](#object-pronouns)**
+    * Exemplos de Uso
 * **[Simple Past](#simple-past)**
     * Como usar?
     * Exemplos
