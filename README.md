@@ -815,7 +815,7 @@ Existem muitos caracteres especiais, e a forma de pronunciá-los em inglês pode
    * **_** (underline): **underscore**
    * **-** (hífen): **hyphen** ou **dash**
    * **/ /** (barra): **slash** ou **forward slash**
-   * **\** (barra invertida): **backslash**
+   * *\* (barra invertida): **backslash**
    * **#** (jogo da velha): **hash** ou **pound sign**
    * **&** (e comercial): **ampersand**
 
