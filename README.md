@@ -42,9 +42,9 @@
 
 ---
 
-<h2 align="center">50 Verbs to memorize</h2>
+<h2 align="center">Verbs To Memorize</h2>
 
-Lista dos 50 verbos mais usados nas seguintes formas: infinitive, simple past e post participle. [clique aqui](https://docs.google.com/spreadsheets/d/1bfjlpFhi-iAl-c9BMVKiFndqAhEu0ii5iZ5Nac8wiy4/edit?gid=1517875423#gid=1517875423).
+Lista dos 50 verbos mais usados nas seguintes formas: **infinitive**, **simple past** e **past participle**. [clique aqui](https://docs.google.com/spreadsheets/d/1bfjlpFhi-iAl-c9BMVKiFndqAhEu0ii5iZ5Nac8wiy4/edit?gid=1517875423#gid=1517875423).
 
 ---
 
