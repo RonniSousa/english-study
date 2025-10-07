@@ -911,7 +911,7 @@ O **Superlative** é usado para comparar três ou mais coisas, pessoas ou lugare
 
 Para palavras que terminam em **-y**, a regra é diferente. Você deve remover o **-y** e adicionar **-ier** para o comparativo e **-iest** para o superlativo.
 
-#### Comparativo
+#### Comparativo - Y
 
 | Adjetivo | Forma Comparativa | Exemplo |
 | :--- | :--- | :--- |
@@ -922,7 +922,7 @@ Para palavras que terminam em **-y**, a regra é diferente. Você deve remover o
 
 ---
 
-#### Superlativo
+#### Superlativo - Y
 
 | Adjetivo | Forma Superlativa | Exemplo |
 | :--- | :--- | :--- |
@@ -935,7 +935,7 @@ Para palavras que terminam em **-y**, a regra é diferente. Você deve remover o
 
 Para adjetivos de uma sílaba que terminam em **T**, a regra geral é **dobrar a consoante final** antes de adicionar `-er` (comparativo) ou `-est` (superlativo).
 
-#### Comparativo
+#### Comparativo - T
 
 | Adjetivo | Forma Comparativa | Exemplo |
 | :--- | :--- | :--- |
@@ -946,7 +946,7 @@ Para adjetivos de uma sílaba que terminam em **T**, a regra geral é **dobrar a
 
 ---
 
-#### Superlativo
+#### Superlativo - T
 
 | Adjetivo | Forma Superlativa | Exemplo |
 | :--- | :--- | :--- |
@@ -954,3 +954,19 @@ Para adjetivos de uma sílaba que terminam em **T**, a regra geral é **dobrar a
 | **fat** (gordo) | **the fattest** (o mais gordo) | `The pig is **the fattest** animal on the farm.` (O porco é **o animal mais gordo** da fazenda.) |
 | **wet** (molhado) | **the wettest** (o mais molhado) | `This is **the wettest** month of the year.` (Este é **o mês mais molhado** do ano.) |
 | **fit** (em forma) | **the fittest** (o mais em forma) | `She is **the fittest** person I know.` (Ela é **a pessoa mais em forma** que eu conheço.) |
+
+---
+
+### Exceções
+
+Alguns adjetivos são irregulares e não seguem as regras de adicionar `-er`, `-est`, `more` ou `most`. Eles têm formas únicas que precisam ser memorizadas.
+
+Aqui estão os mais comuns:
+
+| Adjetivo | Comparativo | Superlativo | Exemplo |
+| :--- | :--- | :--- | :--- |
+| **Good** (bom) | **Better** (melhor) | **The best** (o melhor) | `This book is **better** than that one.`<br>`It is **the best** book I've read.` |
+| **Bad** (ruim) | **Worse** (pior) | **The worst** (o pior) | `The weather is **worse** today.`<br>`This is **the worst** movie ever.` |
+| **Far** (longe) | **Farther/Further** (mais longe) | **The farthest/furthest** (o mais longe) | `The park is **farther** than the store.`<br>`This is **the farthest** place from here.` |
+| **Little** (pouco) | **Less** (menos) | **The least** (o menos) | `I have **less** money now.`<br>`He has **the least** experience.` |
+| **Much/Many** (muito) | **More** (mais) | **The most** (o mais) | `I have **more** books than you.`<br>`She has **the most** friends.` |
