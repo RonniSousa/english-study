@@ -46,6 +46,10 @@
     * Exemplos Práticos
     * Forma Positiva
     * Forma Negativa
+* **[Simple Past - Did](#simple-past---did)**
+    * Como Usar?
+      - Em Perguntas
+      - Em Frases Negativas
 * **[Present Perfect](#present-perfect)**
     * Como Usar?
     * Quando Usar?
