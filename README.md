@@ -56,7 +56,75 @@
 
 <h2 align="center">Verbs To Memorize</h2>
 
-Lista dos 50 verbos mais usados nas seguintes formas: **infinitive**, **simple past** e **past participle**. [clique aqui](https://docs.google.com/spreadsheets/d/1bfjlpFhi-iAl-c9BMVKiFndqAhEu0ii5iZ5Nac8wiy4/edit?gid=1517875423#gid=1517875423).
+<details>
+<summary>Lista dos 50 verbos mais usados nas seguintes formas: **infinitive**, **simple past** e **past participle**.</summary> 
+
+| Infinitive | Simple Past | Past Participle | Translation |
+| :--- | :--- | :--- | :--- |
+| be | was, were | been | ser, estar |
+| beat | beat | beaten | bater |
+| become | became | become | tornar-se |
+| begin | began | begun | começar |
+| bite | bit | bitten | morder |
+| break | broke | broken | quebrar |
+| bring | brought | brought | trazer |
+| build | built | built | construir |
+| buy | bought | bought | comprar |
+| catch | caught | caught | pegar |
+| choose | chose | chosen | escolher |
+| come | came | come | vir |
+| cost | cost | cost | custar |
+| cut | cut | cut | cortar |
+| do | did | done | fazer |
+| draw | drew | drawn | desenhar |
+| drink | drank | drunk | beber |
+| drive | drove | driven | dirigir |
+| eat | ate | eaten | comer |
+| fall | fell | fallen | cair |
+| feel | felt | felt | sentir |
+| fight | fought | fought | lutar |
+| find | found | found | encontrar |
+| fly | flew | flown | voar |
+| forget | forgot | forgotten | esquecer |
+| get | got | gotten | conseguir |
+| give | gave | given | dar |
+| go | went | gone | ir |
+| grow | grew | grown | crescer |
+| have | had | had | ter |
+| hear | heard | heard | ouvir |
+| hit | hit | hit | bater |
+| keep | kept | kept | manter |
+| know | knew | known | saber |
+| leave | left | left | deixar, sair |
+| lose | lost | lost | perder |
+| make | made | made | fazer |
+| meet | met | met | encontrar |
+| pay | paid | paid | pagar |
+| put | put | put | colocar |
+| read | read | read | ler |
+| ride | rode | ridden | andar de (bike, cavalo) |
+| run | ran | run | correr |
+| say | said | said | dizer |
+| see | saw | seen | ver |
+| sell | sold | sold | vender |
+| sing | sang | sung | cantar |
+| sit | sat | sat | sentar |
+| sleep | slept | slept | dormir |
+| speak | spoke | spoken | falar |
+| stand | stood | stood | ficar em pé |
+| steal | stole | stolen | roubar |
+| swim | swam | swum | nadar |
+| take | took | taken | pegar |
+| teach | taught | taught | ensinar |
+| tell | told | told | contar |
+| think | thought | thought | pensar |
+| throw | threw | thrown | atirar, jogar |
+| understand | understood | understood | entender |
+| wake | woke | woken | acordar |
+| wear | wore | worn | vestir, usar |
+| win | won | won | vencer |
+| write | wrote | written | escrever |
+</details>
 
 ---
 
