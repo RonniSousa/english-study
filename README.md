@@ -30,7 +30,7 @@
     * Como usar?
 * **[Simple Past - Irregular Verbs](#simple-past---irregular-verbs)**
     * Exemplos Práticos
-* **[Simple Past - Irregular Verbs](#simple-past---regular-verbs)**
+* **[Simple Past - Regular Verbs](#simple-past---regular-verbs)**
     * Exemplos Práticos
 * **[Possesive Adjectives](#possesive-adjectives)**
     * Resumo das Funções
