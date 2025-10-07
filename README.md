@@ -559,3 +559,55 @@ Os mais comuns são:
 
 ---
 
+<h2 align="center">Chunks</h2>
+
+**Chunks** (ou "blocos de fala") são grupos de palavras que nativos de inglês usam juntos, de forma natural, como se fossem uma única unidade. Eles são frases inteiras, combinações de verbos e preposições, ou expressões que não podem ser traduzidas palavra por palavra.
+
+Em vez de focar apenas em vocabulário e gramática isolados, aprender com chunks ajuda a memorizar e usar a língua de forma mais fluida e autêntica.
+
+### Exemplos de Chunks:
+
+* **Verbos com preposições:**
+    * `get up` (levantar)
+    * `look forward to` (não ver a hora de)
+
+* **Expressões fixas:**
+    * `How's it going?` (Como vai?)
+    * `take a break` (fazer uma pausa)
+    * `by the way` (a propósito)
+
+* **Frases completas:**
+    * `I have no idea.` (Eu não faço ideia.)
+    * `Could you please help me?` (Você poderia, por favor, me ajudar?)
+
+---
+
+### **Chunks para Saudação e Conversação**
+
+   * `How have you been?` (Como você tem estado?)
+   * `Long time no see.` (Há quanto tempo.)
+   * `What's going on?` (O que está acontecendo?)
+   * `I'm all ears.` (Sou todo ouvidos.)
+
+### **Chunks para Opinião e Concordância**
+
+   * `In my opinion...` (Na minha opinião...)
+   * `I see what you mean.` (Eu entendo o que você quer dizer.)
+   * `I couldn't agree more.` (Eu não poderia concordar mais.)
+   * `That's a good point.` (Esse é um bom ponto.)
+
+### **Chunks para Pedidos e Oferecer Ajuda**
+
+   * `Could you do me a favor?` (Você poderia me fazer um favor?)
+   * `Would you mind if...?` (Você se importaria se...?)
+   * `Let me give you a hand.` (Deixe-me te dar uma mão/ajuda.)
+   * `Feel free to ask.` (Sinta-se à vontade para perguntar.)
+
+### **Chunks para Expressar Sentimentos**
+
+   * `I'm looking forward to...` (Estou ansioso para...)
+   * `I'm sick of...` (Estou de saco cheio de...)
+   * `That's a relief.` (Que alívio.)
+   * `I'm so excited about...` (Estou tão animado com...)
+
+Aprender e usar esses "blocos" de fala torna a comunicação muito mais natural, porque você passa a pensar e falar como um nativo, em vez de traduzir palavra por palavra.
