@@ -188,6 +188,8 @@ Eles sempre acompanham um verbo principal.
 
 ---
 
+<h2 align="center">Modal Verb - Can</h2>
+
 O verbo modal **can** é usado para expressar **habilidade** ou **possibilidade**. A forma negativa, **can't** (ou cannot), expressa o oposto.
 
 É um verbo muito fácil de usar porque ele **nunca muda de forma**, não importa o sujeito (I, you, he, she, it, we, they).
@@ -215,7 +217,33 @@ O verbo modal **can** é usado para expressar **habilidade** ou **possibilidade*
 
   Lembre-se: `can` e `can't` vêm **sempre antes do verbo principal**, que fica na sua forma base (sem 'to' ou 's').
 
-  ---
+---
+
+<h2 align="center">Modal Verb - Would</h2>
+
+O modal verb `would` é usado principalmente para falar sobre situações hipotéticas, pedidos educados e hábitos no passado.
+
+### `Would`
+
+* **Pedidos educados:** É a forma mais formal e educada de pedir algo.
+    * `**Would** you help me?` (Você me ajudaria?)
+
+* **Situações hipotéticas ou condicionais:** Descreve o que aconteceria se algo fosse verdade.
+    * `I **would** travel more if I had time.` (Eu viajaria mais se tivesse tempo.)
+
+* **Hábitos no passado:** Para descrever ações que aconteciam regularmente no passado, mas não acontecem mais.
+    * `When I was a child, I **would** play outside every day.` (Quando eu era criança, eu brincava lá fora todos os dias.)
+
+---
+
+### `Wouldn't` (Forma Negativa)
+
+`Wouldn't` (`would not`) é usado para a negação dessas mesmas funções.
+
+   * `I **wouldn't** do that.` (Eu não faria isso.)
+   * `She **wouldn't** talk to me.` (Ela não falava comigo.)
+
+---
 
 <h2 align="center">Future Simple</h2>
 
