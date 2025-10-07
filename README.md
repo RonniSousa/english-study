@@ -15,8 +15,14 @@
 * **[Modal Verb](#modal-verb)**
     * Principais Características
     * Principais Verbos Modais
+* **[Modal Verb - Can](#modal-verb---can)**
     * Can (habilidade/possibilidade)
     * Can't (não consegue/não pode)
+* **[Modal Verb - Would](#modal-verb---would)**
+    * Pedidos educados
+    * Situações hipotéticas ou condicionais
+    * Hábitos no passado
+    * Wouldn't (Forma Negativa)
 * **[Future Simple](#future-simple)**
     * Como Usar?
     * Quando usar?
