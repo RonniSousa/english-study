@@ -582,7 +582,7 @@ Eles são usados da mesma forma que os verbos regulares para falar de ações qu
 
 ---
 
-<h2 align="center">Simple Past - Did</h2>
+<h3 align="center">Simple Past - Did</h3>
 
 O **`did`** é o verbo auxiliar principal para o **Simple Past** na forma interrogativa e negativa. Ele é usado com todos os pronomes (I, you, he, she, it, we, they).
 
