@@ -851,12 +851,50 @@ Os mais comuns são:
    * `extremely`
    * `so`
 
-### Exemplos:
+---
 
-   * `The weather is **very** hot.` (O tempo está **muito** quente.)
-   * `The movie was **really** good.` (O filme foi **muito** bom.)
-   * `She runs **extremely** fast.` (Ela corre **extremamente** rápido.)
-   * `I'm **so** tired.` (Estou **tão** cansado.)
+Para explicar os intensifiers, é importante dividi-los em dois grupos: aqueles que modificam adjetivos/advérbios e aqueles que modificam substantivos.
+
+---
+
+### Intensifiers de Adjetivos e Advérbios
+
+Essas palavras aumentam a intensidade de um adjetivo ou advérbio.
+
+* **very**: Usado para dar ênfase, é um dos intensifiers mais comuns.
+    * `She is **very** happy.` (Ela está **muito** feliz.)
+    * `He speaks **very** quickly.` (Ele fala **muito** rápido.)
+
+* **really**: Também dá ênfase e é muito usado na fala informal. Pode expressar surpresa ou um alto grau de algo.
+    * `The movie was **really** interesting.` (O filme foi **muito** interessante.)
+    * `It's **really** hot outside.` (Está **realmente** quente lá fora.)
+
+* **extremely**: Um intensifier mais forte que `very` ou `really`, usado para indicar um grau muito alto.
+    * `The test was **extremely** difficult.` (A prova foi **extremamente** difícil.)
+    * `He is an **extremely** talented artist.` (Ele é um artista **extremamente** talentoso.)
+
+* **so**: Usado para dar ênfase, muitas vezes com um tom de surpresa ou para ligar uma causa a um efeito.
+    * `I'm **so** tired.` (Estou **tão** cansado.)
+    * `The music was **so** loud that I couldn't hear you.` (A música estava **tão** alta que eu não conseguia te ouvir.)
+
+---
+
+### Intensifiers de Substantivos
+
+Essas palavras indicam a quantidade ou o grau de um substantivo.
+
+* **many**: Usado para intensificar a quantidade de **substantivos contáveis** no plural.
+    * `There are **many** cars in the parking lot.` (Há **muitos** carros no estacionamento.)
+
+* **much**: Usado para intensificar a quantidade de **substantivos incontáveis**.
+    * `I don't have **much** money.` (Eu não tenho **muito** dinheiro.)
+
+* **a little**: Usado para indicar uma quantidade pequena de **substantivos incontáveis**.
+    * `Could I have **a little** sugar?` (Eu poderia ter **um pouco** de açúcar?)
+
+* **a lot**: Usado informalmente para indicar uma grande quantidade de **substantivos contáveis** ou **incontáveis**.
+    * `She has **a lot** of friends.` (Ela tem **muitos** amigos.)
+    * `I have **a lot** of work to do.` (Eu tenho **muito** trabalho para fazer.)
 
 ---
 
