@@ -86,6 +86,8 @@
       - Adjetivos curtos
       - Adjetivos longos
     * **[Comparative / Superlative - Y](#comparative--superlative---y)**
+    * **[Comparative / Superlative - T](#comparative--superlative---t)**
+    * **[Comparative / Superlative - Exepctions](#comparative--superlative---execeptions)**
 </details>
 
 ---
