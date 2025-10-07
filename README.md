@@ -909,9 +909,11 @@ O **Superlative** é usado para comparar três ou mais coisas, pessoas ou lugare
 
 ---
 
+<h3 align="center">Comparative / Superlative - Y</h3>
+
 Para palavras que terminam em **-y**, a regra é diferente. Você deve remover o **-y** e adicionar **-ier** para o comparativo e **-iest** para o superlativo.
 
-#### Comparativo - Y
+#### Comparativo 
 
 | Adjetivo | Forma Comparativa | Exemplo |
 | :--- | :--- | :--- |
@@ -922,7 +924,7 @@ Para palavras que terminam em **-y**, a regra é diferente. Você deve remover o
 
 ---
 
-#### Superlativo - Y
+#### Superlativo 
 
 | Adjetivo | Forma Superlativa | Exemplo |
 | :--- | :--- | :--- |
@@ -933,9 +935,11 @@ Para palavras que terminam em **-y**, a regra é diferente. Você deve remover o
 
 ---
 
+<h3 align="center">Comparative / Superlative - T</h3>
+
 Para adjetivos de uma sílaba que terminam em **T**, a regra geral é **dobrar a consoante final** antes de adicionar `-er` (comparativo) ou `-est` (superlativo).
 
-#### Comparativo - T
+#### Comparativo 
 
 | Adjetivo | Forma Comparativa | Exemplo |
 | :--- | :--- | :--- |
@@ -946,7 +950,7 @@ Para adjetivos de uma sílaba que terminam em **T**, a regra geral é **dobrar a
 
 ---
 
-#### Superlativo - T
+#### Superlativo 
 
 | Adjetivo | Forma Superlativa | Exemplo |
 | :--- | :--- | :--- |
@@ -956,8 +960,7 @@ Para adjetivos de uma sílaba que terminam em **T**, a regra geral é **dobrar a
 | **fit** (em forma) | **the fittest** (o mais em forma) | `She is **the fittest** person I know.` (Ela é **a pessoa mais em forma** que eu conheço.) |
 
 ---
-
-### Exceções
+<h3 align="center">Comparative / Superlative - Exepctions</h3>
 
 Alguns adjetivos são irregulares e não seguem as regras de adicionar `-er`, `-est`, `more` ou `most`. Eles têm formas únicas que precisam ser memorizadas.
 
