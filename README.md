@@ -847,3 +847,43 @@ Esses termos são muito usados em programação, senhas e configurações de tex
    * **E-mail:** `myname@email.com` se fala "my name **at** email **dot** com".
    * **Senha:** `password_123!` se fala "password **underscore** one two three **exclamation mark**".
    * **Código:** `http://example.com/folder` se fala "h-t-t-p **colon slash slash** example **dot** com **slash** folder".
+
+---
+
+<h2 align="center">Comparative / Superlative</h2>
+
+---
+
+### Comparative (Comparativo)
+
+O **Comparative** é usado para comparar duas coisas, pessoas ou lugares. Ele mostra qual deles tem mais ou menos de uma determinada qualidade.
+
+A regra muda dependendo do tamanho do adjetivo:
+
+* **Adjetivos curtos (1 ou 2 sílabas):** Adicione **`-er`** ao final do adjetivo.
+  * `taller` (mais alto)
+  * `faster` (mais rápido)
+  * `This car is **faster** than that one.` (Este carro é **mais rápido** que aquele.)
+
+* **Adjetivos longos (3 ou mais sílabas):** Use a palavra **`more`** antes do adjetivo.
+  * `more beautiful` (mais bonito)
+  * `more expensive` (mais caro)
+  * `This book is **more interesting** than that movie.` (Este livro é **mais interessante** que aquele filme.)
+
+---
+
+### Superlative (Superlativo)
+
+O **Superlative** é usado para comparar três ou mais coisas, pessoas ou lugares, mostrando qual deles tem a maior ou menor qualidade de todas.
+
+* **Adjetivos curtos:** Adicione **`-est`** ao final do adjetivo e use a palavra **`the`** antes.
+  * `the tallest` (o mais alto)
+  * `the fastest` (o mais rápido)
+  * `He is **the tallest** student in the class.` (Ele é **o estudante mais alto** da turma.)
+
+* **Adjetivos longos:** Use a palavra **`the most`** antes do adjetivo.
+  * `the most beautiful` (o mais bonito)
+  * `the most expensive` (o mais caro)
+  * `This is **the most beautiful** painting I've ever seen.` (Esta é **a pintura mais bonita** que eu já vi.)
+
+---
