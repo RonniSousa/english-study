@@ -32,6 +32,8 @@
     * Exemplos Práticos
 * **[Simple Past - Irregular Verbs](#simple-past---irregular-verbs)**
     * Exemplos Práticos
+    * Forma Positiva
+    * Forma Negativa
 * **[Possesive Adjectives](#possesive-adjectives)**
     * Resumo das Funções
 * **[Present Perfect](#present-perfect)**
@@ -342,13 +344,13 @@ Basta inverter a posição do `was`/`were` com o sujeito.
 Os **verbos regulares** no **Simple Past** seguem uma regra simples para formar o passado: basta adicionar **-ed** ao final do verbo.
 
 ### Exemplos:
-* **`Work`** (trabalhar) → **`worked`**
-* **`Play`** (jogar) → **`played`**
-* **`Start`** (começar) → **`started`**
+   * **`Work`** (trabalhar) → **`worked`**
+   * **`Play`** (jogar) → **`played`**
+   * **`Start`** (começar) → **`started`**
 
 Para verbos que já terminam em "e", adicione apenas o **-d**:
-* **`Live`** (morar) → **`lived`**
-* **`Like`** (gostar) → **`liked`**
+   * **`Live`** (morar) → **`lived`**
+   * **`Like`** (gostar) → **`liked`**
 
 Essa forma é usada para falar de ações que começaram e terminaram no passado. Por exemplo: `I **worked** yesterday.` (Eu trabalhei ontem.)
 
@@ -367,6 +369,22 @@ Os **verbos irregulares** no **Simple Past** não seguem a regra de adicionar "-
    * `Make` (fazer) → `**made**`
 
 Eles são usados da mesma forma que os verbos regulares para falar de ações que começaram e terminaram no passado. Por exemplo: `I **went** to the store yesterday.` (Eu fui para a loja ontem.)
+
+---
+
+### Forma Positiva
+`I **went** to the store yesterday.` (Eu fui para a loja ontem.)
+`She **made** a cake.` (Ela fez um bolo.)
+
+---
+
+### Forma Negativa
+Para a forma negativa, a regra é simples: use **`didn't`** (ou `did not`) seguido pelo verbo na sua forma **base** (o infinitivo sem "to").
+
+Não se usa a forma irregular na negativa.
+
+   * `I **didn't go** to the store yesterday.` (Eu não fui para a loja ontem.)
+   * `She **didn't make** a cake.` (Ela não fez um bolo.)
 
 ---
 
