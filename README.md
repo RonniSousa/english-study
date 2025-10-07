@@ -26,7 +26,7 @@
 * **[Future Simple](#future-simple)**
     * Como Usar?
     * Quando usar?
-* **[To Be + Going To](#to-be---going-to)**
+* **[To Be + Going To](#to-be-+-going-to)**
     * Estrutura
       - Positiva
       - Negativa
