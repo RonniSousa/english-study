@@ -29,6 +29,8 @@
 * **[Demonstrative Pronouns](#demonstrative-pronouns)**
     * Tabela de Uso Resumido
     * Exemplos Práticos
+* **[Possesive Adjectives](#possesive-adjectives)**
+    * Resumo das Funções
 * **[Simple Past](#simple-past)**
     * Como usar?
     * Exemplos
@@ -40,8 +42,6 @@
     * Exemplos Práticos
     * Forma Positiva
     * Forma Negativa
-* **[Possesive Adjectives](#possesive-adjectives)**
-    * Resumo das Funções
 * **[Present Perfect](#present-perfect)**
     * Como Usar?
     * Quando Usar?
@@ -282,6 +282,36 @@ A estrutura é sempre a mesma: **`will` + `verbo principal`**.
 
 ---
 
+<h2 align="center">Subject Pronouns</h2>
+
+**Subject Pronouns** (Pronomes Sujeito) são palavras usadas para substituir o sujeito de uma frase. Eles indicam quem ou o que está realizando a ação.
+
+A regra é simples: eles sempre vêm no início da frase, antes do verbo.
+
+---
+
+### **Os Pronomes Sujeito**
+
+   * **I** (eu)
+   * **You** (você, vocês)
+   * **He** (ele)
+   * **She** (ela)
+   * **It** (ele, ela — usado para objetos, animais ou ideias)
+   * **We** (nós)
+   * **They** (eles, elas)
+
+### **Exemplos de Uso**
+
+   * `**I** am a student.` (Eu sou um estudante.)
+   * `**She** lives in London.` (Ela mora em Londres.)
+   * `The book is on the table. **It** is red.` (O livro está na mesa. Ele é vermelho.)
+   * `My friends and I are happy. **We** are going to the park.` (Meus amigos e eu estamos felizes. Nós estamos indo ao parque.)
+   * `The dogs are barking. **They** are hungry.` (Os cachorros estão latindo. Eles estão com fome.)
+
+Eles são essenciais para evitar a repetição de nomes e manter a fluidez da conversa.
+
+---
+
 <h2 align="center">Demonstrative Pronouns</h2>
 
 Os pronomes demonstrativos são usados para indicar a **posição** de algo ou alguém em relação a quem está falando. Eles mudam de acordo com a **distância** (perto ou longe) e o **número** (singular ou plural).
@@ -310,6 +340,63 @@ Os pronomes demonstrativos são usados para indicar a **posição** de algo ou a
   * **`Those`** `are the students.` (Aqueles são os estudantes. — Os estudantes estão longe.)
 
   **Dica:** Pense em `this` e `these` como "aqui" e `that` e `those` como "lá".
+
+---
+
+<h2 align="center">Possesive Adjectives</h2>
+
+Os Possessive Adjectives (adjetivos possessivos) são usados para indicar posse ou pertencimento. Eles sempre vêm antes de um substantivo.
+
+A principal diferença é que os **Subject Pronouns** (`I`, `you`, `he`, `she`, `it`, `we`, `they`) sempre realizam a ação do verbo. Eles são a "pessoa" que faz algo na frase.
+
+Já as palavras `my`, `yours`, `him`, `her` **não são subject pronouns**. Elas pertencem a outras categorias e têm funções diferentes:
+
+* **`My`** e **`yours`** são pronomes possessivos. Eles indicam posse.
+   * **Exemplo:** `This is **my** car.` (Este é o meu carro.)
+   * **Exemplo:** `That car is **yours**.` (Aquele carro é seu.)
+
+* **`Him`** e **`her`** são pronomes objeto. Eles recebem a ação do verbo, ou seja, a ação é feita para eles.
+   * **Exemplo:** `I saw **him** yesterday.` (Eu vi ele ontem.)
+   * **Exemplo:** `She gave the book to **her**.` (Ela deu o livro para ela.)
+
+### Resumo das Funções:
+
+  * **Subject Pronouns:** `I`, `you`, `he`, `she`, `it`, `we`, `they` → **Fazem a ação.**
+  * **Object Pronouns:** `me`, `you`, `him`, `her`, `it`, `us`, `them` → **Recebem a ação.**
+  * **Possessive Adjectives/Pronouns:** `my`, `your`, `his`, `her`, `its`, `our`, `their` → **Indicam posse.**
+
+---
+
+<h2 align="center">Object Pronouns</h2>
+
+**Object Pronouns** (Pronomes Objeto) são palavras usadas para substituir o objeto de uma frase, ou seja, a pessoa ou coisa que **recebe a ação do verbo**.
+
+Eles geralmente aparecem depois de um verbo ou de uma preposição.
+
+---
+
+### **Os Pronomes Objeto**
+
+| Subject Pronoun (quem faz) | Object Pronoun (quem recebe) |
+| :--- | :--- |
+| I | **me** |
+| You | **you** |
+| He | **him** |
+| She | **her** |
+| It | **it** |
+| We | **us** |
+| They | **them** |
+
+---
+
+### **Exemplos de Uso**
+
+   * `He loves **me**.` (Ele me ama.) — Eu sou quem recebe a ação do amor.
+   * `I saw **her** yesterday.` (Eu a vi ontem.) — Ela é quem recebeu a ação de "ver".
+   * `She gave the book to **us**.` (Ela deu o livro para nós.) — Nós somos quem recebeu a ação de "dar".
+   * `Call **him**!` (Ligue para ele!) — Ele é quem receberá a ligação.
+
+Em resumo, enquanto os **Subject Pronouns** fazem a ação, os **Object Pronouns** a recebem.
 
 ---
 
@@ -421,30 +508,6 @@ Não se usa a forma irregular na negativa.
 
    * `I **didn't go** to the store yesterday.` (Eu não fui para a loja ontem.)
    * `She **didn't make** a cake.` (Ela não fez um bolo.)
-
----
-
-<h2 align="center">Possesive Adjectives</h2>
-
-Os Possessive Adjectives (adjetivos possessivos) são usados para indicar posse ou pertencimento. Eles sempre vêm antes de um substantivo.
-
-A principal diferença é que os **Subject Pronouns** (`I`, `you`, `he`, `she`, `it`, `we`, `they`) sempre realizam a ação do verbo. Eles são a "pessoa" que faz algo na frase.
-
-Já as palavras `my`, `yours`, `him`, `her` **não são subject pronouns**. Elas pertencem a outras categorias e têm funções diferentes:
-
-* **`My`** e **`yours`** são pronomes possessivos. Eles indicam posse.
-   * **Exemplo:** `This is **my** car.` (Este é o meu carro.)
-   * **Exemplo:** `That car is **yours**.` (Aquele carro é seu.)
-
-* **`Him`** e **`her`** são pronomes objeto. Eles recebem a ação do verbo, ou seja, a ação é feita para eles.
-   * **Exemplo:** `I saw **him** yesterday.` (Eu vi ele ontem.)
-   * **Exemplo:** `She gave the book to **her**.` (Ela deu o livro para ela.)
-
-### Resumo das Funções:
-
-  * **Subject Pronouns:** `I`, `you`, `he`, `she`, `it`, `we`, `they` → **Fazem a ação.**
-  * **Object Pronouns:** `me`, `you`, `him`, `her`, `it`, `us`, `them` → **Recebem a ação.**
-  * **Possessive Adjectives/Pronouns:** `my`, `your`, `his`, `her`, `its`, `our`, `their` → **Indicam posse.**
 
 ---
 
