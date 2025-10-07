@@ -26,7 +26,7 @@
 * **[Future Simple](#future-simple)**
     * Como Usar?
     * Quando usar?
-* **[To Be + Going To](#to-be-going-to)**
+* **[To Be - Going To](#to-be---going-to)**
     * Estrutura
       - Positiva
       - Negativa
@@ -398,7 +398,7 @@ A estrutura é sempre a mesma: **`will` + `verbo principal`**.
 
 ---
 
-<h2 align="center">To Be + Going To</h2>
+<h2 align="center">To Be - Going To</h2>
 
 A estrutura **verbo `to be` + `going to`** é usada para falar de planos e intenções no futuro. Ela indica uma ação que você já decidiu fazer ou que está prestes a acontecer.
 
