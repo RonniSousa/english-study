@@ -815,7 +815,7 @@ Existem muitos caracteres especiais, e a forma de pronunciá-los em inglês pode
    * **_** (underline): **underscore**
    * **-** (hífen): **hyphen** ou **dash**
    * **/ /** (barra): **slash** ou **forward slash**
-   * \ (barra invertida): **backslash**
+   * \ \ (barra invertida): **backslash**
    * **#** (jogo da velha): **hash** ou **pound sign**
    * **&** (e comercial): **ampersand**
 
@@ -833,6 +833,13 @@ Existem muitos caracteres especiais, e a forma de pronunciá-los em inglês pode
    * **;** (ponto e vírgula): **semicolon**
    * **'** (apóstrofo): **apostrophe**
    * **" "** (aspas): **quotation marks**
+
+### Uppercase e Lowercase
+
+   **Uppercase** se refere às letras maiúsculas (**A, B, C, D**).
+   **Lowercase** se refere às letras minúsculas (**a, b, c, d**).
+
+Esses termos são muito usados em programação, senhas e configurações de texto.
 
 ### **Exemplos em Uso**
 
