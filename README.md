@@ -476,3 +476,25 @@ A regra é simples: você usa o verbo na sua forma base (infinitivo sem o "to"),
    * `**Don't talk** during the movie.` (Não fale durante o filme.)
    * `**Don't be** late.` (Não se atrase.)
    * `**Don't open** the box.` (Não abra a caixa.)
+
+---
+
+<h2 align="center">Intensifiers</h2>
+
+**Intensifiers** são palavras que usamos para dar mais força ou ênfase a um adjetivo ou advérbio. Eles servem para deixar a frase mais expressiva.
+
+Os mais comuns são:
+   * `very`
+   * `really`
+   * `extremely`
+   * `so`
+
+### Exemplos:
+
+   * `The weather is **very** hot.` (O tempo está **muito** quente.)
+   * `The movie was **really** good.` (O filme foi **muito** bom.)
+   * `She runs **extremely** fast.` (Ela corre **extremamente** rápido.)
+   * `I'm **so** tired.` (Estou **tão** cansado.)
+
+---
+
