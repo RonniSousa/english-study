@@ -852,8 +852,6 @@ Esses termos são muito usados em programação, senhas e configurações de tex
 
 <h2 align="center">Comparative / Superlative</h2>
 
----
-
 ### Comparative (Comparativo)
 
 O **Comparative** é usado para comparar duas coisas, pessoas ou lugares. Ele mostra qual deles tem mais ou menos de uma determinada qualidade.
