@@ -818,7 +818,7 @@ Existem muitos caracteres especiais, e a forma de pronunciá-los em inglês pode
    * **\\** (barra invertida): **backslash**
    * **#** (jogo da velha): **hash** ou **pound sign**
    * **&** (e comercial): **ampersand**
-   * **(*)** (asterisco): **asterisk**
+   * **( * )** (asterisco): **asterisk**
 
 ### **Parênteses, Colchetes e Chaves**
 
