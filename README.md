@@ -87,7 +87,7 @@
       - Adjetivos longos
     * **[Comparative / Superlative - Y](#comparative--superlative---y)**
     * **[Comparative / Superlative - T](#comparative--superlative---t)**
-    * **[Comparative / Superlative - Exepctions](#comparative--superlative---execeptions)**
+    * **[Comparative / Superlative - Exceptions](#comparative--superlative---exceptions)**
 </details>
 
 ---
@@ -994,7 +994,7 @@ Para adjetivos de uma sílaba que terminam em **T**, a regra geral é **dobrar a
 | **fit** (em forma) | **the fittest** (o mais em forma) | `She is **the fittest** person I know.` (Ela é **a pessoa mais em forma** que eu conheço.) |
 
 ---
-<h3 align="center">Comparative / Superlative - Exepctions</h3>
+<h3 align="center">Comparative / Superlative - Exceptions</h3>
 
 Alguns adjetivos são irregulares e não seguem as regras de adicionar `-er`, `-est`, `more` ou `most`. Eles têm formas únicas que precisam ser memorizadas.
 
